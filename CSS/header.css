@@ -1,0 +1,56 @@
+header {
+    width: 100%;
+    height: 10vh;
+    display: block;
+    position: fixed;
+    top: 0;
+    background-color: transparent;
+    transition: all 0.3s ease-in;
+}
+
+header .container {
+    height: 100%;
+    width: 95%;
+    margin: auto;
+}
+
+header #logo {
+    height: 100%;
+    width: auto;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    float: right;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header .page {
+    display: inline-block;
+    text-align: center;
+    height: auto;
+    width: 100px;
+    margin: 10px;
+}
+
+header a {
+    padding: 1vh;
+    color: #fff;
+    transition: all 0.3s ease-in;
+    background: linear-gradient(#fff, #fff);
+    background-size: 0 8%, 0 8%;
+    background-repeat: no-repeat;
+    background-position: 0 100%, 0 100%;
+}
+
+header a:hover, header a.active {
+    background: linear-gradient(#fff, #fff);
+    background-size: 100% 8%, 100% 8%;
+    background-repeat: no-repeat;
+    background-position: 0 100%, 0 100%;
+    transition: all 400ms;
+}

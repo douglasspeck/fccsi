@@ -1,0 +1,32 @@
+/* Font-families */
+
+body, .quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Font-sizes */
+
+body {
+    font-size: small;
+}
+
+/* Font-transformations */
+
+.upper {
+    text-transform: uppercase;
+}
+
+/* Others */
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
