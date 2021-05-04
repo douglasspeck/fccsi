@@ -1,4 +1,4 @@
-var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
+const countDownDate = new Date("Nov 8, 2021 07:25:25").getTime();
 
 // Atualiza a contagem a cada um segundo
 var x = setInterval(function() {
@@ -16,8 +16,10 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Exibe o resultado no elemento especificado
-  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  document.getElementById("days").innerHTML = days;
+  document.getElementById("hours").innerHTML = hours;
+  document.getElementById("minutes").innerHTML = minutes;
+  document.getElementById("seconds").innerHTML = seconds;
 
   // Se a contagem acabar, exibe a mensagem desejada
   if (distance < 0) {

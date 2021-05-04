@@ -111,7 +111,7 @@ header a:hover, header a.active {
 
 .container {
     background-color: #fff;
-    width: 80%;
+    width: 70%;
     height: 15vh;
     text-align: center;
     display: flex;
@@ -120,4 +120,30 @@ header a:hover, header a.active {
     align-items: center;
     justify-content: center;
     box-shadow: 0px 0px 10px #00000060;
+}
+
+.countdown-container {
+    width: 50%;
+    margin: auto;
+    height: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 0;
+}
+
+.countdown-container h2 {
+    display: block;
+}
+
+.countdown-container h1, .countdown-container h2 {
+    margin: 0;
+}
+
+#days, #hours, #minutes, #seconds {
+    grid-row: 1/2;
+}
+
+.cd-label {
+    grid-row: 2/3;
 }
