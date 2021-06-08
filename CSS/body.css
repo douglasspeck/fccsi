@@ -1,8 +1,28 @@
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 body {
-    width: 90%;
+    width: 100%;
     height: 100%;
-    transform: translateX(5%);
     margin: 0;
     padding: 0;
     background-color: #fff;
+    overflow-x: hidden;
+}
+
+section {
+    width: 90%;
+    margin: auto;
+    padding: 0 5vw;
+}
+
+img {
+    width: 30vw;
+    display: inline;
+}
+
+#pre-inscricoes div, #pre-inscricoes h2{
+    display: inline;
 }

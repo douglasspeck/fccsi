@@ -1,15 +1,23 @@
 /* Font-families */
 
-body, .quicksand {
-    font-family: 'Quicksand', sans-serif;
+body, .serif {
+    font-family: 'Source Serif Pro', serif;
 }
 
-.montserrat {
+h1, h2, h3, h4, h5, h6, .montserrat {
     font-family: 'Montserrat', sans-serif;
 }
 
-.oswald {
-    font-family: 'Oswald', sans-serif;
+.yeseva {
+    font-family: 'Yeseva One', sans-serif;
+}
+
+.literata {
+    font-family: 'Literata', serif;
+}
+
+.sanchez {
+    font-family: 'Sanchez', serif;
 }
 
 /* Font-sizes */
@@ -37,5 +45,4 @@ a {
 
 .white {
     color: #fff;
-    text-shadow: 0px 1px 5px #000;
 }
