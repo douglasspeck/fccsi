@@ -138,6 +138,7 @@ header a:hover, header a.active {
 
 .countdown-container h1, .countdown-container h2 {
     margin: 0;
+    position: relative;
 }
 
 #days, #hours, #minutes, #seconds {
@@ -146,4 +147,15 @@ header a:hover, header a.active {
 
 .cd-label {
     grid-row: 2/3;
+}
+
+.countdown::after {
+    content: ":";
+    position: absolute;
+    right: 0;
+    transform: translate3d(50%, 0, 0);
+}
+
+.countdown:last-of-type::after {
+    content: "";
 }
