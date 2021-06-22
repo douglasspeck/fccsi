@@ -126,6 +126,12 @@ a[role="button"] {
     background-color: var(--blue-2);
     color: #ffffff;
     text-align: center;
+    transition: all 0.15s ease-in;
+}
+
+a[role="button"]:hover {
+    background-color: #ffffff;
+    color: var(--blue-2);
 }
 
 .white {
