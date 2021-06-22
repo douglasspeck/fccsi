@@ -1,4 +1,4 @@
-const countDownDate = new Date("Nov 8, 2021 07:25:25").getTime();
+const countDownDate = new Date("Oct 26, 2021 07:25:00").getTime();
 
 // Atualiza a contagem a cada um segundo
 var x = setInterval(function() {
