@@ -78,6 +78,10 @@ h1, .title {
     text-transform: uppercase;
 }
 
+.center {
+    text-align: center;
+}
+
 /* Others */
 
 a {
