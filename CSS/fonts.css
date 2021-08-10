@@ -93,29 +93,33 @@ a {
 
 a.link {
     text-decoration: none;
+    color: var(--blue-2);
+    font-weight: bold;
+    padding: 0.1em;
+    position: relative;
+    background: linear-gradient(var(--blue-2), var(--blue-2));
+    background-repeat: no-repeat;
+    background-size: 100% 10%;
+    background-position: 0% 100%;
+    animation: unlink 1s forwards;
+    animation-fill-mode: forwards;
+}
+
+a.link:hover, a.link:focus {
+    animation: link 1s forwards;
+    animation-fill-mode: forwards;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+}
+
+a.link-2 {
+    text-decoration: none;
     color: white;
     font-weight: bold;
     background-color: var(--blue-2);
     padding: 0.1em;
     position: relative;
-}
-
-a.link::after {
-    content: "";
-    background-color: #fff;
-    display: block;
-    width: 0;
-    height: 0.1em;
-    position: absolute;
-    bottom: 0.1em;
-    left: 0.1em;
-    transform: translateX(50%);
-    transition: all 0.3s ease-in;
-}
-
-a.link:hover::after {
-    width: calc(100% - 0.2em);
-    transform: translateX(0);
 }
 
 a[role="button"] {
@@ -171,4 +175,66 @@ p ~ ul {
 hr {
     width: 80vw;
     margin: 5vh auto;
+}
+
+@keyframes link {
+    0% {
+        background-size: 100% 10%;
+        background-repeat: no-repeat;
+        background-position: 0% 100%;
+        color: var(--blue-2);
+    }
+    25% {
+        background-size: 10% 10%;
+        background-repeat: no-repeat;
+        background-position: 50% 100%;
+    }
+    50% {
+        background-size: 10% 10%;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        color: var(--blue-2);
+    }
+    75% {
+        background-size: 100% 10%;
+        background-repeat: no-repeat;
+        background-position: 100% 50%;
+    }
+    100% {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: 100% 50%;
+        color: #fff;
+    }
+}
+
+@keyframes unlink {
+    0% {
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: 100% 50%;
+        color: #fff;
+    }
+    25% {
+        background-size: 10% 100%;
+        background-repeat: no-repeat;
+        background-position: 50% 100%;
+    }
+    50% {
+        background-size: 10% 10%;
+        background-repeat: no-repeat;
+        background-position: 50% 100%;
+        color: var(--blue-2);
+    }
+    75% {
+        background-size: 10% 10%;
+        background-repeat: no-repeat;
+        background-position: 50% 100%;
+    }
+    100% {
+        background-size: 100% 10%;
+        background-repeat: no-repeat;
+        background-position: 0% 100%;
+        color: var(--blue-2);
+    }
 }
