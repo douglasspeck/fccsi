@@ -13,7 +13,7 @@ body {
 }
 
 section {
-    width: 90%;
+    width: 60%;
     margin: 10vh auto;
     padding: 0 5vw;
 }
@@ -23,17 +23,25 @@ section {
     padding: 0;
 }
 
-.double {
+.flex {
     display: flex;
-    align-items: center;
     justify-content: space-between;
     max-height: 50vh;
 }
 
-.double div {
+.v-center {
+    align-items: center;
+}
+
+.flex div {
     width: 45%;
     max-width: 50vh;
     margin: auto;
+}
+
+.triple div {
+    margin: 0 1%;
+    height: 100%;
 }
 
 .image-wrapper {
@@ -52,9 +60,10 @@ section {
 
 .text-wrapper {
     display: block;
+    height: 100%;
 }
 
-.text-wrapper h2 {
+.text-wrapper h1 {
     text-align: center;
 }
 
@@ -106,6 +115,30 @@ ul.rect li:hover::before {
     width: 0;
 }
 
+.beauty::before {
+    content: "\A9C1";
+    margin-right: 1%;
+}
+
+.beauty::after {
+    content: "\A9C2";
+    margin-left: 1%;
+}
+
+.icon-title {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-top: 20vh;
+}
+
+.icon {
+    display: block;
+    position: absolute;
+    top: -250%;
+    left: calc(50% - 68px);
+}
+
 .under-construction {
     display: flex;
     align-items: center;
@@ -117,7 +150,6 @@ ul.rect li:hover::before {
 .under-construction img {
     display: block;
     width: 40%;
-    height: auto;
 }
 
 footer {
@@ -129,6 +161,14 @@ footer {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.youtube {
+    --y: calc(var(--x) * 5);
+    width: calc(var(--y) * 16);
+    height: calc(var(--y) * 8.3);
+    max-width: 100%;
+    max-height: auto;
 }
 
 footer .logos {
