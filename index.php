@@ -165,7 +165,7 @@
             </p>
             <hr>
             <div class="logos">
-                /* pode usar a tag span aqui para ajduar na formatação */
+                <!-- pode usar a tag span aqui para ajduar na formatação -->
                 <a href="https://salesianoitajai.g12.br" target="_blank" title="Colégio Salesiano Itajaí"><img src="IMG/logo_csi.png" alt="Logo do Colégio Salesiano Itajaí"></a>
                 <a href="https://fccsi.com.br" target="_blank" title="Nosso website antigo"><img src="IMG/logo.png" alt="Logo da FCCSI"></a>
                 <a href="https://www.youtube.com/channel/UCzALoeT1DTkvuK6YyWNm0Wg" target="_blank" title="Nosso canal no YouTube"><img src="IMG/youtube.png" alt="Logo do YouTube"></a>
