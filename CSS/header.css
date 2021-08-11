@@ -14,11 +14,13 @@
 
 .atribuition {
     position: absolute;
-    bottom: -12%;
-    right: 2%;
-    color: #fff;
-    width: 15%;
-    text-align: right;
+    bottom: -15%;
+    right: 1%;
+    width: auto;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    background-color: #ffffffaf;
+    border-radius: 1em;
 }
 
 .header-background:before {

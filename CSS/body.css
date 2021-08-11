@@ -167,17 +167,6 @@ ul.rect li:hover::before {
     width: 40%;
 }
 
-footer {
-    background-color: var(--blue-3);
-    padding: 5vh;
-    min-height: 20vh;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
 .youtube {
     --y: calc(var(--x) * 5);
     width: calc(var(--y) * 16);
@@ -192,14 +181,27 @@ footer {
     margin: 1% 0;
 }
 
-footer .logos {
-    height: auto;
-    width: 30%;
+footer {
+    background-color: var(--grey-1);
+    margin: 5vh auto;
+    padding: calc(1 * var(--x));
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-radius: calc(10 * var(--x));
+    width: calc(30 * var(--x));
+}
+
+footer a {
+    height: calc(6 * var(--x));
+    width: calc(6 * var(--x));
+    background-color: #fff;
+    border-radius: calc(3 * var(--x));
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 footer img {
-    height: 7vh;
+    width: 60%;
 }

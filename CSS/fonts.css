@@ -83,6 +83,10 @@ body {
     text-align: center;
 }
 
+.right {
+    text-align: right;
+}
+
 /* Others */
 
 a {
@@ -92,10 +96,13 @@ a {
 }
 
 a.link {
+    color: var(--blue-1);
+    text-decoration: none;
+    transition: all 0.2s ease-in;
+}
+
+a.link:hover, a.link:focus {
     color: var(--blue-2);
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    text-decoration-color: var(--blue-1);
 }
 
 a.link-animated {
@@ -177,6 +184,8 @@ strong {
 hr {
     width: 80vw;
     margin: 5vh auto;
+    border: none;
+    border-top: 1px solid var(--grey-3)
 }
 
 @keyframes link {
