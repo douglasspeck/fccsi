@@ -95,8 +95,8 @@
                         Essa é a sua chance de mostrar para o mundo aquilo que você domina,
                         seja na forma de palestra, concurso ou atividade interativa.
                     </p>
-                    <a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform?usp=sf_link">Quero participar!</a>
-                    <p class="center"><a class="link" href="">Quero saber mais!</a></p>
+                    <a target="_blank" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdBCH3A-nImpvRUuJQVB-J0krcIfPEX_SD1jRwtKwUQ2Ki89w/viewform?usp=sf_link">Quero participar!</a>
+                    <p target="_blank" class="center"><a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform">Quero inscrever um Projeto!</a></p>
                 </div>
             </article>
             <article id="article02"></article>
