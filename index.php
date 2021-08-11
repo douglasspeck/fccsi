@@ -83,20 +83,23 @@
             </div>
         </div>
 
-        <section class="banner flex v-center" id="pre-inscricoes">
-            <div class="image-wrapper">
-                <img src="IMG/leandro-e-lucas.jpg" alt="Projeto de Gamificação para a FCCSI 2019">
-            </div>
-            <div class="text-wrapper">
-                <h1 class="p-title upper bold">Inscreva hoje mesmo a sua Atividade Integradora!</h2>
-                <p class="p-text">
-                    A FCCSI 2021 está aceitando inscrições de Atividades Integradoras.
-                    Essa é a sua chance de mostrar para o mundo aquilo que você domina,
-                    seja na forma de palestra, concurso ou atividade interativa.
-                </p>
-                <a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform?usp=sf_link">Quero participar!</a>
-                <p class="center"><a class="link" href="">Quero saber mais!</a></p>
-            </div>
+        <section class="news banner">
+            <article class="flex v-center" id="article01">
+                <div class="image-wrapper">
+                    <img src="IMG/leandro-e-lucas.jpg" alt="Projeto de Gamificação para a FCCSI 2019">
+                </div>
+                <div class="text-wrapper">
+                    <h1 class="p-title upper bold">Inscreva hoje mesmo a sua Atividade Integradora!</h2>
+                    <p class="p-text">
+                        A FCCSI 2021 está aceitando inscrições de Atividades Integradoras.
+                        Essa é a sua chance de mostrar para o mundo aquilo que você domina,
+                        seja na forma de palestra, concurso ou atividade interativa.
+                    </p>
+                    <a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform?usp=sf_link">Quero participar!</a>
+                    <p class="center"><a class="link" href="">Quero saber mais!</a></p>
+                </div>
+            </article>
+            <article id="article02"></article>
         </section>
 
         <hr>
@@ -148,14 +151,18 @@
         </section>
 
         <section>
-            <iframe class="youtube" src="https://www.youtube.com/embed/nHtY_11Ff4U" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="youtube" src="https://www.youtube.com/embed/cB6Z77oSi9I" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="flex">
+                <iframe class="youtube double" src="https://www.youtube.com/embed/nHtY_11Ff4U" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="youtube double" src="https://www.youtube.com/embed/bGdJepAHRTw" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </section>
 
         <footer>
             <h1 class="p-title upper">Atribuições:</h1>
-            <p><strong>
-                Fotos por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link-2" target="_blank">Willian Justen de Vasconcellos</a> via <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link-2" target="_blank">Unsplash</a> e <a href="https://www.freepik.com/pch.vector" class="link-2" target="_blank">pch.vector</a> via <a href="https://www.freepik.com/free-photos-vectors/design" class="link-2" target="_blank">Freepik</a>
-            </strong></p>
+            <p>
+                Fotos por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian Justen de Vasconcellos</a> via <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Unsplash</a> e <a href="https://www.freepik.com/pch.vector" class="link" target="_blank">pch.vector</a> via <a href="https://www.freepik.com/free-photos-vectors/design" class="link" target="_blank">Freepik</a>
+            </p>
             <hr>
             <div class="logos">
                 /* pode usar a tag span aqui para ajduar na formatação */

@@ -92,6 +92,13 @@ a {
 }
 
 a.link {
+    color: var(--blue-2);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: var(--blue-1);
+}
+
+a.link-animated {
     text-decoration: none;
     color: var(--blue-2);
     font-weight: bold;
@@ -105,21 +112,12 @@ a.link {
     animation-fill-mode: forwards;
 }
 
-a.link:hover, a.link:focus {
+a.link-animated:hover, a.link-animated:focus {
     animation: link 1s forwards;
     animation-fill-mode: forwards;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 100% 50%;
-}
-
-a.link-2 {
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    background-color: var(--blue-2);
-    padding: 0.1em;
-    position: relative;
 }
 
 a[role="button"] {
@@ -173,9 +171,7 @@ p ~ ul {
 }
 
 strong {
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    text-decoration-color: var(--blue-2);
+    color: var(--purple-2);
 }
 
 hr {

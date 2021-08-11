@@ -12,6 +12,21 @@ body {
     overflow-x: hidden;
 }
 
+section.news {
+    width: 80%;
+    display: flex;
+    overflow: hidden;
+}
+
+section.news article {
+    display: none;
+    width: 100%;
+}
+
+section.news article:nth-child(1) {
+    display: flex;
+}
+
 section {
     width: 60%;
     margin: 10vh auto;
@@ -169,6 +184,12 @@ footer {
     height: calc(var(--y) * 8.3);
     max-width: 100%;
     max-height: auto;
+}
+
+.youtube.double {
+    --y: calc(var(--x) * 2.3);
+    height: calc(var(--y) * 9);
+    margin: 1% 0;
 }
 
 footer .logos {
