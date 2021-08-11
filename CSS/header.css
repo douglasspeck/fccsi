@@ -12,6 +12,15 @@
     z-index: -1;
 }
 
+.atribuition {
+    position: absolute;
+    bottom: -12%;
+    right: 2%;
+    color: #fff;
+    width: 15%;
+    text-align: right;
+}
+
 .header-background:before {
     content: '';
     display: block;

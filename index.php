@@ -37,7 +37,7 @@
     <body>
         <div class="home-header">
             <div class="header-background">
-                <img src="IMG/header-bg.jpg"/>
+                <img id="banner-img" src="IMG/header-bg.jpg"/>
             </div>
             <header>
                 <div class="nav-container montserrat">
@@ -69,6 +69,7 @@
                 Embarque conosco nessa
                 viagem!
             </h1>
+            <p class="atribuition pp-text">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br>Justen de Vasconcellos</a></p>
         </div>
         <div class="countdown-container">
             <div class="countdown-content">
@@ -111,8 +112,32 @@
                 o pensamento científico e a cultura através de exposições de trabalhos,
                 da realização de apresentações artísticas e outras ferramentas.
                 Todas as atividades são desenvolvidas pelo <strong>Comitê de organização</strong>,
-                que conta com <?php echo count($comite) ?> alunos do 1º ao 3º ano do EM
-                e as professoras Grazi e Sandra Pereira. O projeto tem duração de uma semana,
+                que conta com <?php echo count($comite_alunos) ?> alunos do 1º ao 3º ano do EM
+                e
+                <?php 
+                if (count($comite_professores) > 1) {
+                    if ($comite_professores_is_fem == true) {
+                        echo "as professoras ";
+                    } else {
+                        echo "os professores ";
+                    }
+                    for ($i = 0; $i < count($comite_professores); $i++) {
+                        echo $comite_professores[$i];
+                        if ($i < count($comite_professores) - 1) {
+                            echo " e ";
+                        }
+                    }
+                } else {
+                    if ($comite_professores_is_fem == true) {
+                        echo "a professora ";
+                    } else {
+                        echo "o professor ";
+                    }
+                    echo $comite_professores[0];
+                }
+                echo ". ";
+                ?>
+                O projeto tem duração de uma semana,
                 com atividades diversas que acontecem nos períodos matutino.</p>
         </section>
 
@@ -159,15 +184,8 @@
         </section>
 
         <footer>
-            <h1 class="p-title upper">Atribuições:</h1>
-            <p>
-                Fotos por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian Justen de Vasconcellos</a> via <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Unsplash</a> e <a href="https://www.freepik.com/pch.vector" class="link" target="_blank">pch.vector</a> via <a href="https://www.freepik.com/free-photos-vectors/design" class="link" target="_blank">Freepik</a>
-            </p>
-            <hr>
             <div class="logos">
                 <!-- pode usar a tag span aqui para ajduar na formatação -->
-                <a href="https://salesianoitajai.g12.br" target="_blank" title="Colégio Salesiano Itajaí"><img src="IMG/logo_csi.png" alt="Logo do Colégio Salesiano Itajaí"></a>
-                <a href="https://fccsi.com.br" target="_blank" title="Nosso website antigo"><img src="IMG/logo.png" alt="Logo da FCCSI"></a>
                 <a href="https://www.youtube.com/channel/UCzALoeT1DTkvuK6YyWNm0Wg" target="_blank" title="Nosso canal no YouTube"><img src="IMG/youtube.png" alt="Logo do YouTube"></a>
                 <a href="mailto:contato.fccsi@gmail.com" target="_blank" title="Nosso email de contato"><img src="IMG/gmail.png" alt="Logo do Gmail"></a>
             </div>
