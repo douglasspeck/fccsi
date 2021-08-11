@@ -5,7 +5,7 @@
 
         $title = 'FCCSI | Feira Cultural e Científica Salesiano Itajaí';
         $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí';
-        $css = ['body', 'header', 'fonts'];
+        $css = ['main', 'fonts', 'homepage', 'alignment', 'footer'];
         $js = ['countdown'];
         include 'PHP/head.php';
     ?>
@@ -20,7 +20,7 @@
             <header>
                 <div class="nav-container montserrat">
                     <a href="" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
-                    <nav class="quicksand upper">
+                    <nav class="upper">
                         <a href="" class="page active">
                             Home
                         </a>
@@ -65,11 +65,11 @@
         <main>
 
             <section class="news banner">
-                <article class="flex v-center" id="article01">
+                <article class="space-between v-center" id="article01">
                     <div class="image-wrapper">
                         <img src="IMG/leandro-e-lucas.jpg" alt="Projeto de Gamificação para a FCCSI 2019">
                     </div>
-                    <div class="text-wrapper">
+                    <div class="text-wrapper v-center">
                         <h1 class="p-title upper bold">Inscreva hoje mesmo a sua Atividade Integradora!</h2>
                         <p class="p-text">
                             A FCCSI 2021 está aceitando inscrições de Atividades Integradoras.
@@ -125,10 +125,10 @@
 
             <section class="banner">
                 <div class="icon-title">
-                    <img class="icon" src="IMG/clock.svg" alt="Ícone de Relógio"></img>
+                    <img class="title-icon" src="IMG/clock.svg" alt="Ícone de Relógio"></img>
                     <h1 class="g-title upper center">Programação</h1>
                 </div>
-                <div class="flex triple">
+                <div class="space-between triple">
                     <div class="text-wrapper">
                         <h2 class="p-title center">Apresentação de Projetos</h2>
                         <p class="p-text">
@@ -157,7 +157,7 @@
 
             <section>
                 <iframe class="youtube" src="https://www.youtube.com/embed/cB6Z77oSi9I" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="flex">
+                <div class="space-between">
                     <iframe class="youtube double" src="https://www.youtube.com/embed/nHtY_11Ff4U" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe class="youtube double" src="https://www.youtube.com/embed/bGdJepAHRTw" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
@@ -165,12 +165,7 @@
 
         </main>
 
-        <footer>
-            <a href="https://www.salesianoitajai.g12.br/" target="_blank" title="Voltar para o site do Colégio"><img src="IMG/logo_csi.png" alt="Logo do Gmail"></a>
-            <a href="https://www.instagram.com/stories/highlights/18054772852288004/" target="_blank"title="Instagram do Colégio"><img src="IMG/instagram.png" alt="Logo do Instagram"></a>
-            <a href="https://www.youtube.com/channel/UCzALoeT1DTkvuK6YyWNm0Wg" target="_blank"title="Nosso canal no YouTube"><img src="IMG/youtube.png" alt="Logo do YouTube"></a>
-            <a href="mailto:contato.fccsi@gmail.com" target="_blank" title="Nosso email de contato"><img src="IMG/gmail.png" alt="Logo do Gmail"></a>
-        </footer>
+        <?php include 'PHP/footer.php' ?>
 
     </body>
 </html>

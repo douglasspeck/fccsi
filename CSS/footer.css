@@ -1,0 +1,23 @@
+footer {
+    background: linear-gradient(to bottom, #fff, var(--grey-1));
+    margin-top: 5vh;
+    padding: calc(3 * var(--x));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer a {
+    height: calc(6 * var(--x));
+    width: calc(6 * var(--x));
+    background-color: #fff;
+    border-radius: calc(1 * var(--x));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: calc(1 * var(--x));
+}
+
+footer img {
+    width: 50%;
+}

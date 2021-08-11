@@ -1,0 +1,56 @@
+ul {
+    margin-block-start: 0;
+    padding-inline-start: 1em;
+}
+
+p ~ ul {
+    line-height: 2em;
+}
+
+ul.puzzle, ul.rect {
+    list-style-type: none;
+}
+
+ul.puzzle li::before {
+    content: "\1F9E9";
+    margin-right: 1em;
+}
+
+ul.rect {
+    padding-inline-start: 0;
+    width: calc(100% - 2em);
+    margin: auto;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+ul.rect li {
+    height: 1.5em;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5em;
+    border: 1px solid var(--blue-3);
+    transition: all 0.3s ease-in;
+    background: linear-gradient(var(--blue-3), var(--blue-3));
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+}
+
+ul.rect li::before {
+    content: "";
+    width: 1em;
+    height: 100%;
+    display: inline-block;
+    background-color: var(--blue-3);
+    margin-right: 0.5em;
+    transition: all 0.3s ease-in;
+}
+
+ul.rect li:hover {
+    background-size: 100% 100%;
+    color: #ffffff;
+}
+
+ul.rect li:hover::before {
+    width: 0;
+}

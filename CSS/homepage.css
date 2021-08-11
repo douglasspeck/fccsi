@@ -174,3 +174,76 @@ header a:hover, header a.active {
 .countdown:last-of-type::after {
     content: "";
 }
+
+section.news {
+    width: 80%;
+    display: flex;
+    overflow: hidden;
+}
+
+section.news article {
+    display: none;
+    width: 100%;
+}
+
+section.news article:nth-child(1) {
+    display: flex;
+}
+
+.space-between.triple div {
+    margin: 0 1%;
+    height: 100%;
+}
+
+.image-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: none;
+}
+
+.image-wrapper img {
+    display: block;
+    height: 50vh;
+    width: auto;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-wrapper h1 {
+    text-align: center;
+}
+
+.icon-title {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-top: 20vh;
+}
+
+.title-icon {
+    --w: calc(11 * var(--x));
+    display: block;
+    position: absolute;
+    top: -250%;
+    left: calc(50% - var(--w) / 2);
+    width: var(--w);
+}
+
+.youtube {
+    --y: calc(var(--x) * 5);
+    width: calc(var(--y) * 16);
+    height: calc(var(--y) * 8.3);
+    max-width: 100%;
+    max-height: auto;
+}
+
+.youtube.double {
+    --y: calc(var(--x) * 2.3);
+    height: calc(var(--y) * 9);
+    margin: 1% 0;
+}
