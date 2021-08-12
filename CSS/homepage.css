@@ -255,3 +255,44 @@ section.news article:nth-child(1) {
 .youtube.double:last-child {
     margin-left: var(--x);
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+    .home-header {
+        height: 100vh;
+    }
+
+    .header-background {
+        height: calc(100% + 50px);
+        width: auto;
+    }
+
+    .header-background img {
+        height: 100%;
+        width: auto;
+    }
+
+    .home-header h1 {
+        width: 90%;
+        text-align: center;
+        position: absolute;
+    }
+
+    .home-header h1::before, .home-header h1::after {
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: -5vw;
+        left: calc(50% - 2.5vw);
+        width: 5vw;
+        height: 5vw;
+        border-right: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+        transform: rotate(45deg);
+    }
+
+    .home-header h1::after {
+        bottom: -8vw;
+    }
+
+}
