@@ -14,8 +14,8 @@
 
 .atribuition {
     position: absolute;
-    bottom: -15%;
-    right: 1%;
+    bottom: calc(-4 * var(--x));
+    right: var(--x);
     width: auto;
     padding: 0.5em 1em;
     font-weight: bold;
@@ -243,7 +243,15 @@ section.news article:nth-child(1) {
 }
 
 .youtube.double {
-    --y: calc(var(--x) * 2.3);
-    height: calc(var(--y) * 9);
-    margin: 1% 0;
+    max-width: calc(var(--x) * 16 * 2.4);
+    max-height: calc(var(--x) * 9 * 2.4);
+    margin: var(--x) 0;
+}
+
+.youtube.double:first-child {
+    margin-right: var(--x);
+}
+
+.youtube.double:last-child {
+    margin-left: var(--x);
 }

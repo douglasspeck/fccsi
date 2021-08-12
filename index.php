@@ -86,7 +86,7 @@
             <hr>
 
             <section>
-                <h1 class="beauty g-title upper center">O Projeto</h1>
+                <h1 class="g-title upper center">O Projeto</h1>
                 <p class="m-text under">
                     A FCCSI é um projeto interdiciplinar que busca promover o protagonismo,
                     o pensamento científico e a cultura através de exposições de trabalhos,

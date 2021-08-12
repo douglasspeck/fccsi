@@ -154,16 +154,6 @@ a[role="button"]:hover {
 
 /* Decoration */
 
-.beauty::before {
-    content: "\A9C1";
-    margin-right: 1%;
-}
-
-.beauty::after {
-    content: "\A9C2";
-    margin-left: 1%;
-}
-
 hr {
     width: 80vw;
     margin: 5vh auto;
