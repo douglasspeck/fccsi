@@ -17,6 +17,8 @@
                     echo '<img id="banner-img" src="IMG/header-bg-' . $random . '.jpg"/>'
                 ?>
             </div>
+            <input type="checkbox" name="header-toggle" class="sandwich">
+            <label for="header-toggle" class="sandwich"></label>
             <header>
                 <div class="nav-container montserrat">
                     <a href="" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
