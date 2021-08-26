@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":true,"name":"SALA001","order":1,"parentId":0,"scrollX":461.4,"scrollY":471.59999999999997}
+{"id":1,"expanded":true,"name":"SALA001","order":1,"parentId":0,"scrollX":1001.4545454545455,"scrollY":705.8181818181819},
+{"id":2,"expanded":false,"name":"1st Floor – Side View","order":2,"parentId":0,"scrollX":2448,"scrollY":1725.3333333333333}
 ]
