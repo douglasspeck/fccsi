@@ -17,7 +17,7 @@
                     echo '<img id="banner-img" src="IMG/header-bg-' . $random . '.jpg"/>'
                 ?>
             </div>
-            <input type="checkbox" name="header-toggle" class="sandwich">
+            <input type="checkbox" id="header-toggle" class="sandwich">
             <label for="header-toggle" class="sandwich"></label>
             <header>
                 <div class="nav-container montserrat">
