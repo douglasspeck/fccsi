@@ -10,6 +10,12 @@
         include 'PHP/head.php';
     ?>
     <body>
+        <input type="checkbox" id="header-toggle" class="sandwich">
+        <label for="header-toggle" class="sandwich">
+            <span class="sandwich icon"></span>
+            <span class="sandwich icon"></span>
+            <span class="sandwich icon"></span>
+        </label>
         <div class="home-header">
             <div class="header-background">
                 <?php
@@ -17,8 +23,6 @@
                     echo '<img id="banner-img" src="IMG/header-bg-' . $random . '.jpg"/>'
                 ?>
             </div>
-            <input type="checkbox" id="header-toggle" class="sandwich">
-            <label for="header-toggle" class="sandwich"></label>
             <header>
                 <div class="nav-container montserrat">
                     <a href="" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>

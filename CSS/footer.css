@@ -16,8 +16,16 @@ footer a {
     align-items: center;
     justify-content: center;
     margin: calc(1 * var(--x));
+    transform: translateY(-10%);
+    transition: all 0.2s ease-in;
+    box-shadow: 0px calc(0.5 * var(--x)) 0 var(--blue-1)
 }
 
 footer img {
     width: 50%;
+}
+
+footer a:hover, footer a:focus {
+    transform: none;
+    box-shadow: none;
 }
