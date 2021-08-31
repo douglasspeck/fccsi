@@ -1,5 +1,5 @@
 footer {
-    background: linear-gradient(to bottom, #fff, var(--grey-1));
+    background: linear-gradient(to bottom, #fff, var(--blue-3));
     margin-top: 5vh;
     padding: calc(3 * var(--x));
     display: flex;
@@ -28,4 +28,15 @@ footer img {
 footer a:hover, footer a:focus {
     transform: none;
     box-shadow: none;
+}
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+    footer a {
+        height: calc(12 * var(--x));
+        width: calc(12 * var(--x));
+        box-shadow: none;
+        transform: none;
+    }
+
 }

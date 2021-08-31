@@ -53,7 +53,7 @@
                 Embarque conosco nessa
                 viagem!
             </h1>
-            <p class="atribuition pp-text right montserrat">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br class="no-mobile">Justen de Vasconcellos</a></p>
+            <p class="atribuition right montserrat">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br class="no-mobile">Justen de Vasconcellos</a></p>
         </div>
         <div class="countdown-container">
             <div class="countdown-content">
@@ -83,7 +83,7 @@
                             seja na forma de palestra, concurso ou atividade interativa.
                         </p>
                         <a target="_blank" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdBCH3A-nImpvRUuJQVB-J0krcIfPEX_SD1jRwtKwUQ2Ki89w/viewform?usp=sf_link">Quero participar!</a>
-                        <p target="_blank" class="center"><a class="link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform">Quero inscrever um Projeto!</a></p>
+                        <p class="p-text center"><a class="link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform">Quero inscrever um Projeto!</a></p>
                     </div>
                 </article>
                 <article id="article02"></article>

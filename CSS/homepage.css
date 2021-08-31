@@ -25,6 +25,7 @@ input.sandwich {
     font-weight: bold;
     background-color: #ffffffaf;
     border-radius: 1em;
+    font-size: var(--x);
 }
 
 .header-background:before {

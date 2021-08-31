@@ -137,12 +137,20 @@
         bottom: 5vh;
         right: calc(30vw - 1em);
         width: 40vw;
-        font-size: 1em;
         text-align: center;
+        font-size: calc(1.5 * var(--x));
     }
 
     .image-wrapper {
         height: auto;
+    }
+
+    .youtube, .youtube.double {
+        margin: var(--x) 0 !important;
+        width: calc(var(--y) * 12);
+        height: calc(var(--y) * 6.2);
+        max-width: 100%;
+        max-height: none;
     }
 }
 
@@ -184,8 +192,7 @@
     }
 
     70% {
-        top: 0;
-        left: 0;
+        top: 0;         left: 0;
         border-radius: 0;
         transform: rotate(-360deg);
     }

@@ -228,3 +228,53 @@ strong {
         color: var(--blue-2);
     }
 }
+
+/* Mobile */
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+    /* Font Sizes (Mobile) */
+
+    body {
+        font-size: calc(1.5 * var(--x));
+    }
+
+    .xg-title {
+        font-size: calc(5 * var(--x));
+    }
+    
+    .gg-title {
+        font-size: calc(4.5 * var(--x));
+    }
+    
+    .g-title, .xg-text {
+        font-size: calc(4 * var(--x));
+    }
+    
+    .title, .gg-text {
+        font-size: calc(3.5 * var(--x));
+    }
+    
+    .m-title, .g-text {
+        font-size: calc(3 * var(--x));
+    }
+    
+    .p-title, .m-text {
+        font-size: calc(2.5 * var(--x));
+    }
+    
+    .pp-title, .p-text {
+        font-size: calc(2 * var(--x));
+    }
+    
+    .xp-title, .pp-text {
+        font-size: calc(1.5 * var(--x));
+    }
+
+    /* Others */
+
+    a[role="button"] {
+        font-size: calc(2.5 * var(--x));
+    }
+
+}

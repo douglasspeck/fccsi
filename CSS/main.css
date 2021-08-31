@@ -25,7 +25,11 @@ section {
 
 @media only screen and (hover: none) and (pointer: coarse){
 
-    section, .banner {
+    section {
+        width: 80%;
+    }
+
+    section.banner {
         width: 100%;
         margin: 5vh 0;
     }
