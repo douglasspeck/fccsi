@@ -126,12 +126,12 @@ header a:hover, header a.active {
 .countdown-container {
     background-color: #fff;
     width: 70%;
-    height: 15vh;
+    height: calc(10 * var(--x));
     text-align: center;
     display: flex;
     margin: auto;
     margin-bottom: 10vh;
-    border-radius: 20px;
+    border-radius: var(--x);
     align-items: center;
     justify-content: center;
     box-shadow: 0px 0px 10px #00000060;
@@ -143,7 +143,7 @@ header a:hover, header a.active {
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 60px 1.5em;
+    grid-template-rows: 3em 1.5em;
     row-gap: 0;
 }
 
@@ -180,7 +180,6 @@ header a:hover, header a.active {
 }
 
 section.news {
-    width: 80%;
     display: flex;
     overflow: hidden;
 }

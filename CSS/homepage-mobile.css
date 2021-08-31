@@ -5,7 +5,7 @@
     }
 
     .header-background {
-        height: calc(100% + 50px);
+        height: calc(100% + 5 * var(--x));
         width: auto;
     }
 
@@ -139,6 +139,10 @@
         width: 40vw;
         font-size: 1em;
         text-align: center;
+    }
+
+    .image-wrapper {
+        height: auto;
     }
 }
 

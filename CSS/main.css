@@ -30,6 +30,10 @@ section {
         margin: 5vh 0;
     }
 
+    section.news {
+        width: 100%;
+    }
+
     .no-mobile {
         display: none;
     }
