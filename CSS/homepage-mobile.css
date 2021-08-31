@@ -1,0 +1,208 @@
+@media only screen and (hover: none) and (pointer: coarse){
+
+    .home-header {
+        height: 100vh;
+    }
+
+    .header-background {
+        height: calc(100% + 50px);
+        width: auto;
+    }
+
+    .header-background img {
+        height: 100%;
+        width: auto;
+    }
+
+    .home-header h1 {
+        width: 90%;
+        top: calc(50vh - 1em);
+        text-align: center;
+        position: absolute;
+    }
+
+    .home-header h1::before, .home-header h1::after {
+        content: '';
+        display: block;
+        position: absolute;
+        bottom: -5vw;
+        left: calc(50% - 2.5vw);
+        width: 5vw;
+        height: 5vw;
+        border-right: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+        transform: rotate(45deg);
+    }
+
+    .home-header h1::after {
+        bottom: -8vw;
+    }
+
+    label.sandwich {
+        --y: calc(7 * var(--x));
+        display: block;
+        position: fixed;
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        background-color: #fff;
+        z-index: 5;
+    }
+
+    label.sandwich:hover {
+        animation: mobile-menu-close 1s forwards ease-in;
+    }
+
+    header {
+        display: flex;
+        height: calc(100% - 4vh);
+        width: 50vw;
+        z-index: 3;
+        opacity: 0;
+        overflow: hidden;
+        align-items: center;
+        justify-content: center;
+        scroll-behavior: none;
+        animation: menu-fadeout 0.5s forwards ease-in;
+        position: fixed;
+        left: 25vw;
+    }
+
+    input.sandwich:checked ~ label.sandwich {
+        animation: mobile-menu 1s forwards ease-in;
+    }
+
+    input.sandwich:checked ~ label.sandwich .icon.sandwich {
+        display: none;
+    }
+
+    input.sandwich:checked ~ .home-header header {
+        animation: menu-fadein 2s forwards ease-out;
+        z-index: 7;;
+    }
+
+    header .nav-container {
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+
+    header .logo {
+        display: block;
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+
+    header nav {
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        height: 40vh;
+        margin: 5vh 0;
+    }
+
+    header .page {
+        display: block;
+        color: var(--grey-1);
+        padding: 1.5vh 0;
+        width: 80%;
+        border: 1px solid var(--grey-1);
+        border-radius: 5vh;
+    }
+
+    .icon.sandwich {
+        display: block;
+        position: absolute;
+        background-color: #000;
+        width: 50%;
+        height: 2px;
+        left: 25%;
+        margin: 2px 0;
+        top: calc(var(--y) / 2 - 2px);
+        animation: menu-fadein 2s forwards ease-in;
+    }
+
+    .icon.sandwich:nth-child(1) {
+        transform: translateY(-300%);
+    }
+
+    .icon.sandwich:nth-child(3) {
+        transform: translateY(300%);
+    }
+
+    .atribuition {
+        bottom: 5vh;
+        right: calc(30vw - 1em);
+        width: 40vw;
+        font-size: 1em;
+        text-align: center;
+    }
+}
+
+@keyframes mobile-menu {
+    0% {
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        transform: none;
+    }
+
+    30% {
+        top: 0;
+        left: 0;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        top: 0;
+        left: calc(50vw - 50vh);
+        width: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+}
+
+@keyframes mobile-menu-close {
+    0% {
+        top: 0;
+        left: calc(50vw - 50vh);
+        width: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    70% {
+        top: 0;
+        left: 0;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        transform: none;
+    }
+}
+
+@keyframes menu-fadein {
+    0%      {opacity: 0}
+    50%     {opacity: 0}
+    100%    {opacity: 1}
+}
+
+@keyframes menu-fadeout {
+    from    {opacity: 1}
+    to      {opacity: 0}
+}

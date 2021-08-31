@@ -30,4 +30,8 @@ section {
         margin: 5vh 0;
     }
 
+    .no-mobile {
+        display: none;
+    }
+
 }

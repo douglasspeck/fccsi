@@ -5,7 +5,7 @@
 
         $title = 'FCCSI | Feira Cultural e Científica Salesiano Itajaí';
         $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí';
-        $css = ['main', 'fonts', 'homepage', 'alignment', 'footer'];
+        $css = ['main', 'fonts', 'homepage', 'homepage-mobile', 'alignment', 'footer'];
         $js = ['countdown'];
         include 'PHP/head.php';
     ?>
@@ -19,8 +19,8 @@
         <div class="home-header">
             <div class="header-background">
                 <?php
-                    $random = rand(0, 4);
-                    echo '<img id="banner-img" src="IMG/header-bg-' . $random . '.jpg"/>'
+                    $banner_image = rand(0, 4);
+                    echo '<img id="banner-img" src="IMG/header-bg-' . $banner_image . '.jpg"/>'
                 ?>
             </div>
             <header>
@@ -53,7 +53,7 @@
                 Embarque conosco nessa
                 viagem!
             </h1>
-            <p class="atribuition pp-text right montserrat">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br>Justen de Vasconcellos</a></p>
+            <p class="atribuition pp-text right montserrat">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br class="no-mobile">Justen de Vasconcellos</a></p>
         </div>
         <div class="countdown-container">
             <div class="countdown-content">
