@@ -30,7 +30,7 @@ footer a:hover, footer a:focus {
     box-shadow: none;
 }
 
-@media only screen and (hover: none) and (pointer: coarse){
+@media only screen and (orientation: portrait){
 
     footer a {
         height: calc(12 * var(--x));
