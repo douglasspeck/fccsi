@@ -260,11 +260,11 @@ strong {
     }
     
     .p-title, .m-text {
-        font-size: calc(2.5 * var(--x));
+        font-size: calc(2.4 * var(--x));
     }
     
     .pp-title, .p-text {
-        font-size: calc(2 * var(--x));
+        font-size: calc(1.7 * var(--x));
     }
     
     .xp-title, .pp-text {
