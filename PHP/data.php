@@ -1,5 +1,5 @@
 <?php
-    /* Comitê */
+/* Comitê */
     $comite_alunos = [
         'Amanda Karina',
         'Ana Júlia Herbst',
@@ -25,7 +25,7 @@
 
 
 
-    /* Atividades Integradoras */
+/* Atividades Integradoras */
     
     $json = file_get_contents('DATA/atividades.json');
 

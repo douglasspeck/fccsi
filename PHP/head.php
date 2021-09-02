@@ -1,9 +1,31 @@
 <?php
 
+/* URL Methods */
+
+if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') { $url = "https://"; }  
+else {$url = "http://"; }  
+// Append the host(domain name, ip) to the URL.   
+$url.= $_SERVER['HTTP_HOST'];   
+
+// Append the requested resource location to the URL   
+$url.= $_SERVER['REQUEST_URI'];
+
 $link = basename(__FILE__, '.php');
 if ($link = 'index') {
     $link = '';
 };
+
+$official_website = false;
+
+if (strpos($url, 'salesianoitajai') !== false) {
+    $link = 'https://fccsi.salesianoitajai.g12.br/' . $link;
+    str_replace('.php', '', $link);
+    $official_website = true;
+} else if (strpos($url, 'fccsi.online') !== false) {
+    $link = 'https://fccsi.online/' . $link;
+} else if (strpos($url, 'localhost') !== false) {
+    $link = 'http://localhost:3000/' . $link;
+}
 
 echo
     '<head>
@@ -19,7 +41,7 @@ echo
         <meta name="author" content="Colégio Salesiano Itajaí">
         <meta name="description" content="Site Oficial da Feira Cultural e Científica Salesiano Itajaí">
         <meta name="keywords" content="' . $keywords . '">
-        <link rel="canonical" href="https://fccsi.salesianoitajai.g12.br/' . $link . '">
+        <link rel="canonical" href="' . $link . '">
         
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.gstatic.com"> 

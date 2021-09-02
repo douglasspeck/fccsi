@@ -3,8 +3,8 @@
     <?php
         include 'PHP/data.php';
     
-        $title = 'FCCSI | Atividades Integradoras';
-        $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí, Atividades Integradoras';
+        $title = 'FCCSI | Mapas';
+        $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí, Mapas';
         $css = ['main', 'fonts', 'alignment', 'header', 'footer'];
         $js = [];
         include 'PHP/head.php';

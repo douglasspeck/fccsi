@@ -5,7 +5,7 @@
 
         $title = 'FCCSI | Feira Cultural e Científica Salesiano Itajaí';
         $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí';
-        $css = ['main', 'fonts', 'homepage', 'homepage-mobile', 'alignment', 'footer'];
+        $css = ['main', 'fonts', 'header', 'homepage', 'homepage-mobile', 'alignment', 'footer'];
         $js = ['countdown'];
         include 'PHP/head.php';
     ?>
@@ -23,31 +23,7 @@
                     echo '<img id="banner-img" src="IMG/header-bg-' . $banner_image . '.jpg"/>'
                 ?>
             </div>
-            <header>
-                <div class="nav-container montserrat">
-                    <a href="" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
-                    <nav class="upper">
-                        <a href="" class="page active">
-                            Home
-                        </a>
-                        <a href="" class="page">
-                            Passagens
-                        </a>
-                        <a href="" class="page">
-                            Hotéis
-                        </a>
-                        <a href="" class="page">
-                            Pacotes
-                        </a>
-                        <a href="" class="page">
-                            Mapas
-                        </a>
-                        <a href="" class="page">
-                            Contato
-                        </a>
-                    </nav>
-                </div>
-            </header>
+            <?php include 'PHP/header.php' ?>
             <h1 class="xg-title white yeseva">
                 A FCCSI está chegando.<br>
                 Embarque conosco nessa

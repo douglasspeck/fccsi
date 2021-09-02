@@ -1,0 +1,63 @@
+header {
+    width: 100%;
+    height: 8vh;
+    padding: 2vh 0;
+    position: absolute;
+    top: 0;
+    background-color: transparent;
+    transition: all 0.3s ease-in;
+}
+
+header .nav-container {
+    height: 100%;
+    padding: 0 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo {
+    background: none;
+    height: 100%;
+    width: auto;
+    cursor: pointer;
+}
+
+header .logo:hover {
+    background: none;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    float: right;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header .page {
+    display: inline-block;
+    text-align: center;
+    height: auto;
+    width: auto;
+    margin: 10px;
+}
+
+header a {
+    padding-bottom: 1vh;
+    color: var(--purple-1);
+    transition: all 0.3s ease-in;
+    background: linear-gradient(var(--purple-1), var(--purple-1));
+    background-size: 0 8%, 0 8%;
+    background-repeat: no-repeat;
+    background-position: 0 100%, 0 100%;
+}
+
+header a:hover, header a.active {
+    background-size: 100% 8%, 100% 8%;
+    background-repeat: no-repeat;
+    background-position: 0 100%, 0 100%;
+    transition: all 400ms;
+}
