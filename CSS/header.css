@@ -1,3 +1,7 @@
+input.sandwich {
+    display: none;
+}
+
 header {
     width: 100%;
     height: 8vh;
@@ -5,7 +9,6 @@ header {
     position: absolute;
     top: 0;
     background-color: transparent;
-    transition: all 0.3s ease-in;
 }
 
 header .nav-container {
@@ -21,6 +24,7 @@ header .logo {
     height: 100%;
     width: auto;
     cursor: pointer;
+    padding: 0;
 }
 
 header .logo:hover {
@@ -48,7 +52,6 @@ header .page {
 header a {
     padding-bottom: 1vh;
     color: var(--purple-1);
-    transition: all 0.3s ease-in;
     background: linear-gradient(var(--purple-1), var(--purple-1));
     background-size: 0 8%, 0 8%;
     background-repeat: no-repeat;
@@ -56,8 +59,173 @@ header a {
 }
 
 header a:hover, header a.active {
+    transition: all 0.3s ease-in;
     background-size: 100% 8%, 100% 8%;
     background-repeat: no-repeat;
     background-position: 0 100%, 0 100%;
-    transition: all 400ms;
+}
+
+@media only screen and (orientation: portrait){
+
+    label.sandwich {
+        --y: calc(7 * var(--x));
+        display: block;
+        position: fixed;
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        background-color: #fff;
+        z-index: 5;
+    }
+
+    input.sandwich:not(:checked):hover ~ label.sandwich {
+        animation: mobile-menu-close 1s forwards ease-in;
+    }
+
+    header {
+        display: flex;
+        height: calc(100% - 4vh);
+        width: 50vw;
+        z-index: 3;
+        overflow: hidden;
+        align-items: center;
+        justify-content: center;
+        scroll-behavior: none;
+        animation: menu-fadeout 0.5s forwards ease-in;
+        position: fixed;
+        left: 25vw;
+    }
+
+    header:hover {
+        
+    }
+
+    input.sandwich:checked ~ label.sandwich {
+        animation: mobile-menu 1s forwards ease-in;
+    }
+
+    input.sandwich:checked ~ label.sandwich .sandwich.icon {
+        display: none;
+    }
+
+    input.sandwich:checked ~ header, input.sandwich:checked ~ .home-header header {
+        animation: menu-fadein 2s forwards ease-out;
+        z-index: 7;;
+    }
+
+    header .nav-container {
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+
+    header .logo {
+        display: block;
+        width: 80%;
+        height: auto;
+        margin: auto;
+    }
+
+    header nav {
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        height: auto;
+        margin: 5vh 0;
+    }
+
+    header .page {
+        display: block;
+        color: var(--grey-1);
+        padding: 1.5vh 0;
+        width: 80%;
+        border: 1px solid var(--grey-1);
+        border-radius: 5vh;
+    }
+
+    .icon.sandwich {
+        display: block;
+        position: absolute;
+        background-color: #000;
+        width: 50%;
+        height: 2px;
+        left: 25%;
+        margin: 2px 0;
+        top: calc(var(--y) / 2 - 2px);
+        animation: menu-fadein 2s forwards ease-in;
+    }
+
+    .icon.sandwich:nth-child(1) {
+        transform: translateY(-300%);
+    }
+
+    .icon.sandwich:nth-child(3) {
+        transform: translateY(300%);
+    }
+}
+
+@keyframes mobile-menu {
+    0% {
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        transform: none;
+    }
+
+    30% {
+        top: 0;
+        left: 0;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        top: 0;
+        left: calc(50vw - 50vh);
+        width: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+}
+
+@keyframes mobile-menu-close {
+    0% {
+        top: 0;
+        left: calc(50vw - 50vh);
+        width: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    70% {
+        top: 0;         left: 0;
+        border-radius: 0;
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        top: calc(5 * var(--x));
+        left: calc(5 * var(--x));
+        width: var(--y);
+        height: var(--y);
+        border-radius: calc(5 * var(--x));
+        transform: none;
+    }
+}
+
+@keyframes menu-fadein {
+    0%      {opacity: 0}
+    50%     {opacity: 0}
+    100%    {opacity: 1}
+}
+
+@keyframes menu-fadeout {
+    from    {opacity: 1}
+    to      {opacity: 0}
 }
