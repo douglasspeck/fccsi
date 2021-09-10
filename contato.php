@@ -13,6 +13,7 @@
     <body>
         <?php
             include 'PHP/header.php';
+            include 'PHP/under-construction.php';
             include 'PHP/footer.php';
         ?>
     </body>

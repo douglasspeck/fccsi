@@ -3,9 +3,9 @@ input.sandwich {
 }
 
 header {
-    width: 100%;
+    width: 90%;
     height: 8vh;
-    padding: 2vh 0;
+    padding: 2vh 5vw;
     position: absolute;
     top: 0;
     background-color: transparent;
@@ -51,8 +51,8 @@ header .page {
 
 header a {
     padding-bottom: 1vh;
-    color: var(--purple-1);
-    background: linear-gradient(var(--purple-1), var(--purple-1));
+    color: var(--blue-1);
+    background: linear-gradient(var(--blue-1), var(--blue-1));
     background-size: 0 8%, 0 8%;
     background-repeat: no-repeat;
     background-position: 0 100%, 0 100%;
@@ -89,6 +89,7 @@ header a:hover, header a.active {
         height: calc(100% - 4vh);
         width: 50vw;
         z-index: 3;
+        padding: 2vh 0;
         overflow: hidden;
         align-items: center;
         justify-content: center;
@@ -96,10 +97,6 @@ header a:hover, header a.active {
         animation: menu-fadeout 0.5s forwards ease-in;
         position: fixed;
         left: 25vw;
-    }
-
-    header:hover {
-        
     }
 
     input.sandwich:checked ~ label.sandwich {
@@ -143,6 +140,12 @@ header a:hover, header a.active {
         width: 80%;
         border: 1px solid var(--grey-1);
         border-radius: 5vh;
+    }
+
+    header .page.active {
+        background: none;
+        background-color: var(--blue-3);
+        color: #fff;
     }
 
     .icon.sandwich {
