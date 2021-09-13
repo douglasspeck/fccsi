@@ -15,16 +15,16 @@ if ($link = 'index') {
     $link = '';
 };
 
-$official_website = false;
+$isLocal = false;
 
 if (strpos($url, 'salesianoitajai') !== false) {
     $link = 'https://fccsi.salesianoitajai.g12.br/' . $link;
     str_replace('.php', '', $link);
-    $official_website = true;
 } else if (strpos($url, 'fccsi.online') !== false) {
     $link = 'https://fccsi.online/' . $link;
 } else if (strpos($url, 'localhost') !== false) {
     $link = 'http://localhost:3000/' . $link;
+    $isLocal = true;
 }
 
 echo

@@ -25,7 +25,7 @@
 
         echo '<a href="' . $page_links[$i];
 
-        if ($official_website == false && $page_links[$i] !== '/' && $page_links[$i] !== '') {
+        if ($isLocal == true && $page_links[$i] !== '/' && $page_links[$i] !== '') {
             echo '.php';
         }
 
