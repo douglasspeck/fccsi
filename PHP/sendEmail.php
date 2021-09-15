@@ -30,32 +30,11 @@
     $headers .= "Return-Path:  <contato@fccsi.online>\n";   // Caso a mensagem seja respondida,
     $headers .= "MIME-Version: 1.0\n";                      // vai para esse e-mail
 
-    $key = file_get_contents("../DATA/gmail-smtp-entrada.pem");
-
-    $fp = fopen("../DATA/msg.txt", "w");
-    fwrite($fp, $mensagem);
-    fclose($fp);
-
-    openssl_pkcs7_encrypt(
-        "../DATA/msg.txt",
-        "../DATA/enc.txt",
-        $key,
-        array(
-            "To" => $destinatario,
-            "From" => "FCCSI<nao-responda@fccsi.online>",
-            "Subject" => $assunto,
-        )
-    );
-
-    $mensagem = file_get_contents('../DATA/enc.txt');
-
-    echo $mensagem;
-
     // Função que envia o e-mail em si
-    // mail($destinatario, $assunto, $mensagem, $headers);
+    mail($destinatario, $assunto, $mensagem, $headers);
 
     // Retorna para a página anterior
-    // header("Location: http://localhost:3000/contato.php");
-    // exit();
+    header("Location: http://localhost:3000/contato.php");
+    exit();
     
 ?>
