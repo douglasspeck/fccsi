@@ -23,7 +23,7 @@
     $headers .= "MIME-Version: 1.0\n";                      // vai para esse e-mail
 
     // Função que envia o e-mail em si
-    mail($destinatario, $_POST['subject'], file_get_contents('../email.html'), $headers);
+    mail($destinatario, $_POST['subject'], $mensagem, $headers);
 
     // Retorna para a página anterior
     header("Location: http://localhost:3000/contato.php");
