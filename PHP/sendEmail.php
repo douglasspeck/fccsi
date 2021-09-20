@@ -1,21 +1,13 @@
 <?php
 
-    // Inclui o banco de dados
-    // include 'head.php';
-
     // Define o destinatário do formulário
     $destinatario = "speck.empresarial@gmail.com";
 
-    // Resgata o nome digitado no formulário
-    $remetente = $_POST['firstName'] . " " . $_POST['lastName'];
+    // Importa a função email()
+    include 'createEmail.php';
 
-    // Resgata o assunto digitado no formulário e grava na variavel $assunto
-    $assunto = $_POST['subject'];
-
-    // Define a  mensagem que vai ser enviado no e-mail (HTML)
-    $mensagem = "<strong>Nome:  </strong>".$remetente;
-    $mensagem .= "<br>  <strong>Mensagem: </strong>"
-    .$_POST['mensagem'];
+    // Utiliza a função email(), que cria uma mensagem padronizada com as informações do formulário
+    $mensagem = email($_POST['subject'], $_POST['firstName'], $_POST['lastName'], $_POST['mensagem']);
 
     // Informações de Envio do e-mail
     $headers =  "Content-Type:text/html; charset=UTF-8\n";
@@ -31,7 +23,7 @@
     $headers .= "MIME-Version: 1.0\n";                      // vai para esse e-mail
 
     // Função que envia o e-mail em si
-    mail($destinatario, $assunto, $mensagem, $headers);
+    mail($destinatario, $_POST['subject'], file_get_contents('../email.html'), $headers);
 
     // Retorna para a página anterior
     header("Location: http://localhost:3000/contato.php");
