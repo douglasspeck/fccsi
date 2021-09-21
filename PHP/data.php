@@ -5,14 +5,14 @@
         'Ana Júlia Herbst',
         'André Melo',
         'Carolina Vasconcellos',
-        'Deivid Gabriel',
         'Douglas Speck',
         'Eduarda Graciola',
         'Gustavo Bianchi',
         'Gustavo Venzon',
+        'Luiza Maggio',
         'Manuela Leal',
+        'Micaela',
         'Oscar Ferreira',
-        'Pedro Brumm',
         'Pedro Schmitz Rodrigues'
     ];
 

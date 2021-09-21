@@ -5,7 +5,7 @@
     
         $title = 'FCCSI | Contato';
         $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí, Contato';
-        $css = ['main', 'fonts', 'alignment', 'header', 'footer'];
+        $css = ['main', 'fonts', 'alignment', 'contato', 'header', 'footer'];
         $js = [];
         include 'PHP/head.php';
     ?>
@@ -13,25 +13,19 @@
     <body>
         <?php include 'PHP/header.php'; ?>
 
-        <form name="emailForm" method="post" action="PHP/sendEmail.php">
+        <section class="contato">
+            <h1 class="g-title">Fale conosco!</h1>
+            <form class="montserrat p-text" name="emailForm" method="post" action="PHP/sendEmail.php">
 
-            <h1>Nome Completo:</h1>
-            <input type="text" name="firstName" placeholder="Primeiro Nome">
-            <input type="text" name="lastName" placeholder="Sobrenome">
+                <input required type="text" name="firstName" placeholder="Nome">
+                <input required type="text" name="lastName" placeholder="Sobrenome">
+                <input required type="text" name="email" placeholder="Seu Email">
+                <input required type="text" name="subject" placeholder="Assunto da Mensagem">
+                <textarea required name="mensagem" rows="5" placeholder="Escreva aqui sua mensagem!" id="resizeable"></textarea>
+                <input type="submit" value="Enviar">
 
-            <h1>Email:</h1>
-            <input type="text" name="email" placeholder="exemplo@seuemail.com.br">
-
-            <h1>Assunto:</h1>
-            <input type="text" name="subject" placeholder="Eu tenho uma dúvida!">
-
-            <h1>Mensagem:</h1>
-            <textarea name="mensagem" cols="45" rows="5"></textarea>
-
-            <br>
-            <input type="submit" value="Enviar">
-
-        </form>
+            </form>
+        </section>
 
         <?php include 'PHP/footer.php'; ?>
     </body>
