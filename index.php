@@ -70,7 +70,7 @@
             <section>
                 <h1 class="g-title upper center">O Projeto</h1>
                 <p class="m-text under">
-                    A FCCSI é um projeto interdiciplinar que busca promover o protagonismo,
+                    A FCCSI é um projeto interdisciplinar que busca promover o protagonismo,
                     o pensamento científico e a cultura através de exposições de trabalhos,
                     da realização de apresentações artísticas e outras ferramentas.
                     Todas as atividades são desenvolvidas pelo <strong>Comitê de organização</strong>,
