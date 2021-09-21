@@ -1,7 +1,7 @@
 <?php
 
     // Define o destinatário do formulário
-    $destinatario = "speck.empresarial@gmail.com";
+    $destinatario = "nao-responda@fccsi.online";
 
     // Importa a função email()
     include 'createEmail.php';
@@ -11,7 +11,7 @@
 
     // Informações de Envio do e-mail
     $headers =  "Content-Type:text/html; charset=UTF-8\n";
-    $headers .= "From:  FCCSI<nao-responda@fccsi.online>\n";
+    $headers .= "From:  Site da FCCSI<nao-responda@fccsi.online>\n";
 
     // E-mail que irá enviar a mensagem
     $headers .= "X-Sender:  <nao-responda@fccsi.online>\n";
@@ -26,7 +26,7 @@
     mail($destinatario, $_POST['subject'], $mensagem, $headers);
 
     // Retorna para a página anterior
-    header("Location: http://localhost:3000/contato.php");
+    header("Location: http://fccsi.salesianoitajai.g12.br/contato");
     exit();
     
 ?>
