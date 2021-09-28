@@ -49,17 +49,26 @@
             <section class="news banner">
                 <article class="space-between v-center" id="article01">
                     <div class="image-wrapper">
-                        <img src="IMG/leandro-e-lucas.jpg" alt="Projeto de Gamificação para a FCCSI 2019">
+                        <?php 
+                        
+                            $news_image = rand(1, 14);
+                            echo '<img src="IMG/projeto-'. $news_image . '.webp" alt="Projeto da FCCSI 2019">'
+
+                        ?>
                     </div>
                     <div class="text-wrapper v-center">
-                        <h1 class="p-title upper bold">Inscreva hoje mesmo a sua Atividade Integradora!</h2>
+                        <h1 class="p-title upper bold">Monte seu cronograma e inscreva-se na FCCSI!</h2>
                         <p class="p-text">
-                            A FCCSI 2021 está aceitando inscrições de Atividades Integradoras.
-                            Essa é a sua chance de mostrar para o mundo aquilo que você domina,
-                            seja na forma de palestra, concurso ou atividade interativa.
+                            A FCCSI 2021 está chegando e com ela a sua chance de trilhar seu
+                            próprio caminho. Junto aos projetos expostos, os alunos participarão
+                            de Atividades Integradoras. Para escolher as atividades em que
+                            deseja participar, preencha o formulário abaixo com suas informações.
                         </p>
-                        <a target="_blank" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdBCH3A-nImpvRUuJQVB-J0krcIfPEX_SD1jRwtKwUQ2Ki89w/viewform?usp=sf_link">Quero participar!</a>
-                        <p class="p-text center"><a class="link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe6yZOukVRkRAJKPt1eIP_CC-Wz7kf7Ywo3ifekWUeaPUQ6Hw/viewform">Quero inscrever um Projeto!</a></p>
+                        <p><strong>
+                            O Formulário estará disponível entre as 13:00 do dia 13/10 e as 23:59 do dia 15/10.
+                        </strong></p>
+                        <a target="_blank" role="button" onclick="alert('As inscrições ainda não estão abertas! Tente novamente mais tarde.')">Quero participar!</a>
+                        <p class="p-text center"><a class="link" onclick="alert('O Cronograma de Atividades ainda não está disponível. Tente novamente mais tarde.')">Cronograma de Atividades</a></p>
                     </div>
                 </article>
                 <article id="article02"></article>
@@ -121,9 +130,8 @@
                     <div class="text-wrapper">
                         <h2 class="p-title center">Atividades Integradoras</h2>
                         <p class="p-text">
-                            Durante todo o evento haverão diversos cursos, palestras, rodas de conversa
-                            e concursos. Além disso, o evento contará com um mapa online interativo,
-                            com diversos easter eggs preparados para você.
+                            Durante todo o evento acontecem diversos cursos, palestras, rodas de conversa
+                            e concursos. Essas atividades são ministradas por professores, convidados externos e até mesmo alunos.
                         </p>
                     </div>
                     <div class="text-wrapper">
