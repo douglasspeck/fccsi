@@ -5,6 +5,4 @@
         <a href="https://www.youtube.com/channel/UCzALoeT1DTkvuK6YyWNm0Wg" target="_blank"title="Nosso canal no YouTube"><img src="IMG/youtube.png" alt="Logo do YouTube"></a>
         <a href="mailto:contato.fccsi@gmail.com" target="_blank" title="Nosso email de contato"><img src="IMG/gmail.png" alt="Logo do Gmail"></a>
     </footer>';
-
-    include 'PHP/livechat.php';
 ?>
