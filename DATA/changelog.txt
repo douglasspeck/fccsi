@@ -32,12 +32,29 @@ and this project adheres to
 *     ┃  ┗━┓┃ ┏┓ ┃┃ ┏┓ ┃┃ ┓  ┃┃ ┏┓ ┃┃  ━┻┓┃ ┗━━┓┃ ┗┛ ┃┃ ┏┓ ┃     *
 *     ┗━━━━┛┗━┛┗━┛┗━┛┗━┛┗━┛┗━┛┗━━━━┛┗━━━━┛┗━━━━┛┗━━━━┛┗━━━━┛     *
 
+┏━ 0.1.1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2021-10-07 ━━━━━┓
+┃┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃┃ AUTHOR: Douglas Speck [@tiodopaave]
+┃┃
+┃┃ ADDED:
+┃┃ - Favicons (via faviconit)   -> PHP/head.php;
+┃┃
+┃┃ CHANGED:
+┃┃ -
+┃┃
+┃┃ REMOVED:
+┃┃ -
+┃┃
+┗┛
+
 ┏━ 0.1.0 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2021-09-29 ━━━━━┓
 ┃┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ┃┃ AUTHOR: Douglas Speck [@tiodopaave]
 ┃┃
 ┃┃ ADDED:
-┃┃ -
+┃┃ - Changelog                  -> DATA/changelog.txt;
+┃┃ - Macro Backup               -> JS/macros.gs;
+┃┃ - Live Chat (via Crisp)      -> PHP/footer.php;
 ┃┃
 ┃┃ CHANGED:
 ┃┃ -
@@ -49,7 +66,6 @@ and this project adheres to
 
 TO DO LIST:
 
-[ ] Automate emails redirecting;
 [ ] Gallery page;
 [ ] Resize and reformat images;
 [ ] Faviconing;
