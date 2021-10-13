@@ -157,6 +157,7 @@ section.news article:nth-child(1) {
     justify-content: center;
     overflow: hidden;
     margin: none;
+    max-height: 50vh;
 }
 
 .image-wrapper img {
