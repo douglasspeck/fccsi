@@ -5,7 +5,7 @@
 
         $title = 'FCCSI | Feira Cultural e Científica Salesiano Itajaí';
         $keywords = 'FCCSI, Feira, Feirinha, Salesiano, Itajaí';
-        $css = ['main', 'fonts', 'header', 'homepage', 'homepage-mobile', 'alignment', 'footer'];
+        $css = ['main', 'fonts',  'homepage', 'homepage-mobile', 'header', 'alignment', 'footer'];
         $js = ['countdown'];
         include 'PHP/head.php';
     ?>
