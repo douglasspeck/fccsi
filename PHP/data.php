@@ -27,7 +27,7 @@
 
 /* Atividades Integradoras */
     
-    $json = file_get_contents('DATA/old.json');
+    $json = file_get_contents('DATA/atividades.json');
 
     $json_decode = json_decode($json);
 
