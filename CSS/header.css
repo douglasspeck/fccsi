@@ -99,6 +99,7 @@ header a:hover, header a.active {
         animation: menu-fadeout 0.5s forwards ease-in;
         position: fixed;
         left: 25vw;
+        font-size: calc(1.5 * var(--x));
     }
 
     input.sandwich:checked ~ label.sandwich {
