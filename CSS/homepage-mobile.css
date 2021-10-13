@@ -1,5 +1,25 @@
 @media only screen and (orientation: portrait){
 
+    header {
+        display: none;
+        height: calc(100% - 4vh);
+        width: 50vw;
+        z-index: 3;
+        padding: 2vh 0;
+        overflow: hidden;
+        align-items: center;
+        justify-content: center;
+        scroll-behavior: none;
+        animation: menu-fadeout 0.5s forwards ease-in;
+        position: fixed;
+        left: 25vw;
+        font-size: calc(1.5 * var(--x));
+    }
+
+    input.sandwich:checked ~ .home-header header {
+        display: flex;
+    }
+
     .home-header {
         height: 100vh;
     }
