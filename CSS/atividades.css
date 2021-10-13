@@ -40,6 +40,7 @@
     color: var(--purple-1);
     border-radius: 0.25em;
     padding: 0.1em 0.5em;
+    text-align: center;
 }
 
 #labels {
@@ -105,4 +106,25 @@
 
 .atividades strong {
     color: var(--blue-1);
+}
+
+@media only screen and (orientation: portrait){
+
+    .strip {
+        text-align: center;
+    }
+
+    #labels {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        width: 50vw;
+    }
+
+    .atividades {
+        grid-template-columns: 1fr;
+        width: 70vw;
+        margin: auto;
+        font-size: 1.2em;
+    }
+
 }

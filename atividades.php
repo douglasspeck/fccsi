@@ -55,7 +55,7 @@
 
                 </section>
                 
-                <section class="banner atividades">
+                <section class="atividades">
                 <?php 
             
                     for ($i = 0; $i < count($atividades); $i++) {
