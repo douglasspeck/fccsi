@@ -17,7 +17,7 @@
                     <a href="/" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
                     <nav class="upper">';
     
-    $pages = ['Home', 'Blog', 'Passagens', 'Hotéis', 'Pacotes', 'Mapas', 'Contato'];
+    $pages = ['Home', 'Blog', 'Projetos', 'Atividades', 'Galeria', 'Mapas', 'Contato'];
 
     $page_links = ['/', 'blog', 'projetos', 'atividades', 'galeria', 'mapas', 'contato'];
 
