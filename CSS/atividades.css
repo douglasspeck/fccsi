@@ -3,11 +3,65 @@
     background-color: var(--blue-light);
     display: flex;
     align-items: center;
-    justify-content: flex-start;
-    padding: 0 5vw;
+    justify-content: center;
+}
+
+.strip .text-wrapper {
+    width: 70vw;
 }
 
 .strip h1, .strip h2 {
     margin-top: 0;
     margin-bottom: 0;
+}
+
+.atividades {
+    width: 60vw;
+    display: grid;
+    align-items: space-between;
+    justify-content: space-around;
+    row-gap: var(--x);
+    column-gap: calc(2 * var(--x));
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+}
+
+.atividade {
+    border: 1px solid var(--grey-3);
+    border-radius: var(--x);
+    padding: var(--x);
+}
+
+#selectors #cat-1:not(:checked) ~ .atividades .cat-1 { display: none }
+#selectors #cat-2:not(:checked) ~ .atividades .cat-2 { display: none }
+#selectors #cat-3:not(:checked) ~ .atividades .cat-3 { display: none }
+
+#selectors #dia-1:not(:checked) ~ .atividades .dia-1 { display: none }
+#selectors #dia-2:not(:checked) ~ .atividades .dia-2 { display: none }
+#selectors #dia-3:not(:checked) ~ .atividades .dia-3 { display: none }
+
+#selectors #hora-1:not(:checked) ~ .atividades .hora-1 { display: none }
+#selectors #hora-2:not(:checked) ~ .atividades .hora-2 { display: none }
+#selectors #hora-3:not(:checked) ~ .atividades .hora-3 { display: none }
+
+.at-nome {
+    margin-bottom: 0;
+    color: var(--blue-1);
+}
+
+.tags {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--x);
+    font-size: calc(0.7 * var(--x));
+    margin: calc(0.5 * var(--x)) 0;
+}
+
+.tags h2 {
+    color: #fff;
+    background-color: var(--blue-2);
+    border-radius: calc(0.2 * var(--x));
+    margin: 0;
+    padding: calc(0.3 * var(--x));
 }

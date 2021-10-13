@@ -1,0 +1,12 @@
+<div class="atividade">
+    <img src="IMG/atividades/1.png"></img>
+    <div class="left">
+        <h2 class="at-categoria">Categoria 1</h2>
+        <h1 class="at-nome">Nome da Atividade</h1>
+        <div class="at-stars"></div>
+    </div>
+    <div class="right">
+        <h2 class="at-dia">26/09</h2>
+        <h2 class="at-horario">Horário 1</h1>
+    </div>
+</div>
