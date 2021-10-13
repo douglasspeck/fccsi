@@ -57,7 +57,24 @@
                                 <h2 class="at-dia">' . $dias[$atividades[$i][2] - 1] . '</h2>
                                 <h2 class="at-horario">Horário ' . $atividades[$i][3] . '</h2>
                             </div>
-                            <p class="at-desc">' . $atividades[$i][4] . '</p>
+                            <p class="at-desc">' . $atividades[$i][4] . '<br>
+                            <strong>Limite de Vagas:</strong> ' . $atividades[$i][5] . '<br>
+                            <strong>';
+                            
+                            if (count($atividades[$i][6]) > 1) {
+                                echo 'Responsáveis:</strong> ';
+                                for ($j = 0; $j < count($atividades[$i][6]); $j++) {
+                                    echo $atividades[$i][6][$j];
+                                    if ($j < count($atividades[$i][6]) - 1) {
+                                        echo " e ";
+                                    }
+                                }
+                            } else {
+                                echo 'Responsável:</strong> ';
+                                echo $atividades[$i][6][0];
+                            }
+                            
+                            echo '</p>
                         </div>';
                     }
 

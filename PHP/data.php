@@ -40,6 +40,7 @@
             $json_decode->atividades[$i]->data,
             $json_decode->atividades[$i]->horário,
             $json_decode->atividades[$i]->descrição,
+            $json_decode->atividades[$i]->limite,
             $json_decode->atividades[$i]->responsáveis,
             $json_decode->atividades[$i]->imagem
         ];
