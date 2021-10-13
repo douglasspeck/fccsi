@@ -1,0 +1,13 @@
+.strip {
+    height: 25vh;
+    background-color: var(--blue-light);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 5vw;
+}
+
+.strip h1, .strip h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
