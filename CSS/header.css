@@ -87,7 +87,7 @@ header a:hover, header a.active {
     }
 
     header {
-        display: flex;
+        display: none;
         height: calc(100% - 4vh);
         width: 50vw;
         z-index: 3;
@@ -108,6 +108,10 @@ header a:hover, header a.active {
 
     input.sandwich:checked ~ label.sandwich .sandwich.icon {
         display: none;
+    }
+
+    input.sandwich:checked ~ header {
+        display: flex;
     }
 
     input.sandwich:checked ~ header, input.sandwich:checked ~ .home-header header {
