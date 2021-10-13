@@ -1,4 +1,4 @@
-{
+﻿{
     "atividades": [
         {
            "nome" : "Soletrando",
@@ -7,7 +7,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Sandra e Simoni"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
        },
         {
             "nome" : "Campeonato de Xadrez",
@@ -16,7 +16,7 @@
             "horário" : "1",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Dança",
@@ -25,7 +25,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Adaline"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "As civilizações antes da Mitologia Grega",
@@ -34,7 +34,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Lucas Diel"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Ciência do Sono",
@@ -43,7 +43,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Tayana"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Conferência de Sociologia",
@@ -52,7 +52,7 @@
             "horário" : "2",
             "limite" : "450",
             "responsáveis" : ["Guilherme"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Música",
@@ -61,7 +61,7 @@
             "horário" : "3",
             "limite" : "35",
             "responsáveis" : ["Serginho"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Cozinhando com o Lucas",
@@ -70,7 +70,7 @@
             "horário" : "3",
             "limite" : "6",
             "responsáveis" : ["Lucas Ribeiro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Como amar sua pele na Puberdade",
@@ -79,7 +79,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Jussara (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Processo Criativo e Hábito de Leitura",
@@ -88,7 +88,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Apresentações Digitais de Teatro",
@@ -97,7 +97,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Ana Paula Beling"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Alimentação/Nutrição",
@@ -106,7 +106,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Dona do E Labore (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Declamação de Poesias",
@@ -115,7 +115,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "RPG Clássico",
@@ -124,7 +124,7 @@
             "horário" : "1",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Make Class",
@@ -133,7 +133,7 @@
             "horário" : "1",
             "limite" : "35",
             "responsáveis" : ["Eduarda Patiño (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Deficiências com origem genética",
@@ -142,7 +142,7 @@
             "horário" : "1",
             "limite" : "30~60",
             "responsáveis" : ["Luiza Ferreira (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Ferramentas Google",
@@ -151,7 +151,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Gincana FCCSI",
@@ -160,7 +160,7 @@
             "horário" : "2",
             "limite" : "80",
             "responsáveis" : ["Raissa (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Origami",
@@ -169,7 +169,7 @@
             "horário" : "2",
             "limite" : "40",
             "responsáveis" : ["Maria Eduarda Avila (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Escape Room",
@@ -178,7 +178,7 @@
             "horário" : "2",
             "limite" : "15",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Espiritualidade com Cassi",
@@ -187,7 +187,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Cassi"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Lettering",
@@ -196,7 +196,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "MBTI for Kids",
@@ -205,7 +205,7 @@
             "horário" : "2",
             "limite" : "40",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Histórias de Surf",
@@ -214,7 +214,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Convidado Externo"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Música",
@@ -223,7 +223,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Serginho"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Cozinhando com o Lucas",
@@ -232,7 +232,7 @@
             "horário" : "1",
             "limite" : "6",
             "responsáveis" : ["Lucas Ribeiro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Como amar sua pele na Puberdade",
@@ -241,7 +241,7 @@
             "horário" : "1",
             "limite" : "30~120",
             "responsáveis" : ["Jussara (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "RPG Clássico",
@@ -250,7 +250,7 @@
             "horário" : "1",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de edição de vídeo",
@@ -259,7 +259,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["André (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Conferência de Sociologia",
@@ -268,7 +268,7 @@
             "horário" : "2",
             "limite" : "450",
             "responsáveis" : ["Guilherme"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Estado punitivo e controle social",
@@ -277,7 +277,7 @@
             "horário" : "2",
             "limite" : "30~60",
             "responsáveis" : ["Leandro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Montando computadores",
@@ -286,7 +286,7 @@
             "horário" : "2",
             "limite" : "30",
             "responsáveis" : ["Thiago"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Segredos da Moda",
@@ -295,7 +295,7 @@
             "horário" : "2",
             "limite" : "30~60",
             "responsáveis" : ["Convidada Externa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Dança",
@@ -304,7 +304,7 @@
             "horário" : "3",
             "limite" : "40",
             "responsáveis" : ["Adaline"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Escape Room",
@@ -313,7 +313,7 @@
             "horário" : "3",
             "limite" : "15",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Campeonato de Truco",
@@ -322,7 +322,7 @@
             "horário" : "3",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Batalha de Rimas e Versos 2021",
@@ -331,7 +331,7 @@
             "horário" : "3",
             "limite" : "40",
             "responsáveis" : ["Marlon"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Efeitos dos medicamentos no sistema nervoso central",
@@ -340,7 +340,7 @@
             "horário" : "2",
             "limite" : "30~120",
             "responsáveis" : ["Juliana"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de programação",
@@ -349,7 +349,7 @@
             "horário" : "3",
             "limite" : "30",
             "responsáveis" : ["Alison"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "As civilizações antes da Mitologia Grega",
@@ -358,7 +358,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Lucas Diel"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Ciência do Sono",
@@ -367,7 +367,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Tayana"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "A Divina Comédia: do Inferno ao Paraíso",
@@ -376,7 +376,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Vinicius Alexandre (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Deficiências com origem genética",
@@ -385,7 +385,7 @@
             "horário" : "3",
             "limite" : "30~60",
             "responsáveis" : ["Luiza Ferreira (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Criando Seu Posicionamento nas Redes",
@@ -394,7 +394,7 @@
             "horário" : "1",
             "limite" : "30~60",
             "responsáveis" : ["Matheus Cantizani (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Habilidades Futuristas",
@@ -403,7 +403,7 @@
             "horário" : "3",
             "limite" : "30~60",
             "responsáveis" : ["Patrícia Ferreira (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de Excel",
@@ -412,7 +412,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Fernando"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Alimentação/Nutrição",
@@ -421,7 +421,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Dona do E Labore (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "O problema dos museus",
@@ -430,7 +430,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Bruno (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Apresentações Digitais de Teatro",
@@ -439,7 +439,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Ana Paula Beling"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Processos do Design",
@@ -448,7 +448,7 @@
             "horário" : "3",
             "limite" : "30",
             "responsáveis" : ["Júlia Eduarda Booz (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Declamação de Poesias",
@@ -457,7 +457,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Make Class",
@@ -466,7 +466,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Eduarda Patiño (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Processo Criativo e Hábito de Leitura",
@@ -475,7 +475,7 @@
             "horário" : "1",
             "limite" : "30~120",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Ferramentas Google",
@@ -484,7 +484,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Enxergando sua própria voz",
@@ -493,7 +493,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Guilherme Pitella (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Encontro Matesófico Filomático",
@@ -502,7 +502,7 @@
             "horário" : "2",
             "limite" : "30~120",
             "responsáveis" : ["Vavá e Leandro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Geopolítica: o Brasil e o mundo em uma humanidade de futuro compartilhado",
@@ -511,7 +511,7 @@
             "horário" : "3",
             "limite" : "30~120",
             "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Empreendedorismo Jovem",
@@ -520,7 +520,7 @@
             "horário" : "2",
             "limite" : "30",
             "responsáveis" : ["Wagner e Júlia Cordeiro Gaffke Cruz"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Histórias de Surf",
@@ -529,7 +529,7 @@
             "horário" : "3",
             "limite" : "30~120",
             "responsáveis" : ["Convidado Externo"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Como decidir uma carreira",
@@ -538,7 +538,7 @@
             "horário" : "1",
             "limite" : "30~120",
             "responsáveis" : ["Ana Paula e P. Assis"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Escape Room",
@@ -547,7 +547,7 @@
             "horário" : "1",
             "limite" : "15",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Montando computadores",
@@ -556,7 +556,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Thiago"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Gastronomia Molecular",
@@ -565,7 +565,7 @@
             "horário" : "1",
             "limite" : "30",
             "responsáveis" : ["Sandra"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Musculação para não passar vergonha",
@@ -574,7 +574,7 @@
             "horário" : "1",
             "limite" : "30~120",
             "responsáveis" : ["Leandro e Paulo"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Cozinhando com o Lucas",
@@ -583,7 +583,7 @@
             "horário" : "2",
             "limite" : "6",
             "responsáveis" : ["Lucas Ribeiro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Como amar sua pele na Puberdade",
@@ -592,7 +592,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Jussara (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Técnicas e Rotinas de Estudo para Vestibular",
@@ -601,7 +601,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Ênio"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Harmonização Facial",
@@ -610,7 +610,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Francisco Patiño (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Deficiências com origem genética",
@@ -619,7 +619,7 @@
             "horário" : "3",
             "limite" : "30~60",
             "responsáveis" : ["Luiza Ferreira (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Estado punitivo e controle social",
@@ -628,7 +628,7 @@
             "horário" : "3",
             "limite" : "30~70",
             "responsáveis" : ["Leandro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de Edição de Vídeo",
@@ -637,7 +637,7 @@
             "horário" : "3",
             "limite" : "40",
             "responsáveis" : ["André (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Segredos da Moda",
@@ -646,7 +646,7 @@
             "horário" : "3",
             "limite" : "30~60",
             "responsáveis" : ["(Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Empreendedorismo Jovem",
@@ -655,7 +655,7 @@
             "horário" : "3",
             "limite" : "40",
             "responsáveis" : ["Wagner e Júlia Cordeiro Gaffke Cruz"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Criando Seu Posicionamento nas Redes",
@@ -664,7 +664,7 @@
             "horário" : "2",
             "limite" : "30~60",
             "responsáveis" : ["Matheus Cantizani (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Encontro Matesófico Filomático",
@@ -673,7 +673,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Vavá e Leandro"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Processo Criativo e Hábito de Leitura",
@@ -682,7 +682,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Processos do Design",
@@ -691,7 +691,7 @@
             "horário" : "2",
             "limite" : "40",
             "responsáveis" : ["Júlia Eduarda Booz (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Enxergando sua própria voz",
@@ -700,7 +700,7 @@
             "horário" : "2",
             "limite" : "35",
             "responsáveis" : ["Guilherme Pitella (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Alimentação/Nutrição",
@@ -709,7 +709,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Dona do E Labore (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Habilidades Futuristas",
@@ -718,7 +718,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Patrícia Ferreira (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de Excel",
@@ -727,7 +727,7 @@
             "horário" : "3",
             "limite" : "30",
             "responsáveis" : ["Fernando"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Minicurso de programação",
@@ -736,7 +736,7 @@
             "horário" : "3",
             "limite" : "30",
             "responsáveis" : ["Alison"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "PAD (Peneira)",
@@ -745,7 +745,7 @@
             "horário" : "3",
             "limite" : "",
             "responsáveis" : ["Eduarda Mazardo (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Ciência do Sono",
@@ -754,7 +754,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Tayana"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Apresentações Digitais de Teatro",
@@ -763,7 +763,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Ana Paula Beling"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "A Divina Comédia: do Inferno ao Paraíso",
@@ -772,7 +772,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Vinicius Alexandre (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Batalha de Rimas e Versos 2021",
@@ -781,7 +781,7 @@
             "horário" : "1",
             "limite" : "40",
             "responsáveis" : ["Marlon"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Efeitos dos medicamentos no sistema nervoso central",
@@ -790,7 +790,7 @@
             "horário" : "1",
             "limite" : "30~90",
             "responsáveis" : ["Juliana"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Usina Nuclear do Minecraft",
@@ -799,7 +799,7 @@
             "horário" : "1",
             "limite" : "30~60",
             "responsáveis" : ["Henrique, Vitor Damásio, Hanry (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Declamação de Poesias",
@@ -808,7 +808,7 @@
             "horário" : "2",
             "limite" : "40",
             "responsáveis" : ["Andresa"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "As civilizações antes da Mitologia Grega",
@@ -817,7 +817,7 @@
             "horário" : "2",
             "limite" : "30~90",
             "responsáveis" : ["Lucas Diel"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Oficina de Ferramentas Google",
@@ -826,7 +826,7 @@
             "horário" : "2",
             "limite" : "30",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Campeonato de Truco",
@@ -835,7 +835,7 @@
             "horário" : "2",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Como decidir uma carreira",
@@ -844,7 +844,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Ana Paula e P. Assis"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "RPG Clássico",
@@ -853,7 +853,7 @@
             "horário" : "3",
             "limite" : "32",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Make Class",
@@ -862,7 +862,7 @@
             "horário" : "3",
             "limite" : "30",
             "responsáveis" : ["Eduarda Patiño (Aluna)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Geopolítica: o Brasil e o mundo em uma humanidade de futuro compartilhado",
@@ -871,7 +871,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Bate Papo: Bolsa de Valores & Educação Financeira",
@@ -880,7 +880,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Le Benincá (Externo) e Pedro (Aluno)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "O problema dos museus",
@@ -889,7 +889,7 @@
             "horário" : "3",
             "limite" : "30~90",
             "responsáveis" : ["Bruno (Externo)"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Visitação",
@@ -898,7 +898,7 @@
             "horário" : "3",
             "limite" : "450",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Visitação",
@@ -907,7 +907,7 @@
             "horário" : "2",
             "limite" : "450",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Visitação",
@@ -916,7 +916,7 @@
             "horário" : "1",
             "limite" : "450",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -925,7 +925,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -934,7 +934,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -943,7 +943,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -952,7 +952,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -961,7 +961,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -970,7 +970,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -979,7 +979,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -988,7 +988,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -997,7 +997,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1006,7 +1006,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1015,7 +1015,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1024,7 +1024,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1033,7 +1033,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1042,7 +1042,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1051,7 +1051,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1060,7 +1060,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1069,7 +1069,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1078,7 +1078,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1087,7 +1087,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1096,7 +1096,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1105,7 +1105,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1114,7 +1114,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1123,7 +1123,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1132,7 +1132,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1141,7 +1141,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1150,7 +1150,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1159,7 +1159,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1168,7 +1168,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1177,7 +1177,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1186,7 +1186,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1195,7 +1195,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1204,7 +1204,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1213,7 +1213,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1222,7 +1222,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1231,7 +1231,7 @@
             "horário" : "1",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 2",
@@ -1240,7 +1240,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 3",
@@ -1249,7 +1249,7 @@
             "horário" : "3",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         },
         {
             "nome" : "Sala de Cinema 1",
@@ -1258,7 +1258,7 @@
             "horário" : "2",
             "limite" : "45",
             "responsáveis" : ["Comitê"],
-            "descrição" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget nisl arcu. Vivamus vitae semper quam. Nullam euismod porta ultricies. Praesent in dui enim. Proin commodo a mi nec elementum."
+            "descrição" : "A descrição dessa atividade ainda não está disponível. Tente novamente mais tarde ou entre em contato conosco para mais informações."
         }
     ]
 }
