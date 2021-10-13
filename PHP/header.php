@@ -14,7 +14,7 @@
 
     echo    '<header>
                 <div class="nav-container montserrat">
-                    <a href="" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
+                    <a href="/" class="logo"><img class="logo" src="IMG/logo.png" alt="Logo da FCCSI"/></a>
                     <nav class="upper">';
     
     $pages = ['Home', 'Blog', 'Passagens', 'Hotéis', 'Pacotes', 'Mapas', 'Contato'];
