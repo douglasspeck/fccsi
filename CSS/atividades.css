@@ -24,6 +24,31 @@
     column-gap: calc(2 * var(--x));
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
+    margin: 0 auto;
+}
+
+#selectors input { display: none }
+
+.label-name {
+    font-weight: bold;
+}
+
+#selectors label {
+    display: block;
+    cursor: pointer;
+    border: 1px solid var(--purple-1);
+    color: var(--purple-1);
+    border-radius: 0.25em;
+    padding: 0.1em 0.5em;
+}
+
+#labels {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: calc(2 * var(--x)) auto;
+    height: 10vh;
+    gap: var(--x);
 }
 
 .atividade {
@@ -43,6 +68,18 @@
 #selectors #hora-1:not(:checked) ~ .atividades .hora-1 { display: none }
 #selectors #hora-2:not(:checked) ~ .atividades .hora-2 { display: none }
 #selectors #hora-3:not(:checked) ~ .atividades .hora-3 { display: none }
+
+#selectors #cat-1:checked ~ #labels label[for=cat-1] {background-color: var(--purple-1); color: #fff}
+#selectors #cat-2:checked ~ #labels label[for=cat-2] {background-color: var(--purple-1); color: #fff}
+#selectors #cat-3:checked ~ #labels label[for=cat-3] {background-color: var(--purple-1); color: #fff}
+
+#selectors #dia-1:checked ~ #labels label[for=dia-1] {background-color: var(--purple-1); color: #fff}
+#selectors #dia-2:checked ~ #labels label[for=dia-2] {background-color: var(--purple-1); color: #fff}
+#selectors #dia-3:checked ~ #labels label[for=dia-3] {background-color: var(--purple-1); color: #fff}
+
+#selectors #hora-1:checked ~ #labels label[for=hora-1] {background-color: var(--purple-1); color: #fff}
+#selectors #hora-2:checked ~ #labels label[for=hora-2] {background-color: var(--purple-1); color: #fff}
+#selectors #hora-3:checked ~ #labels label[for=hora-3] {background-color: var(--purple-1); color: #fff}
 
 .at-nome {
     margin-bottom: 0;
@@ -64,4 +101,8 @@
     border-radius: calc(0.2 * var(--x));
     margin: 0;
     padding: calc(0.3 * var(--x));
+}
+
+.atividades strong {
+    color: var(--blue-1);
 }

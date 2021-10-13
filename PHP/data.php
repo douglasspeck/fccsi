@@ -27,7 +27,7 @@
 
 /* Atividades Integradoras */
     
-    $json = file_get_contents('DATA/atividades.json');
+    $json = file_get_contents('DATA/old.json');
 
     $json_decode = json_decode($json);
 
@@ -39,10 +39,9 @@
             $json_decode->atividades[$i]->categoria,
             $json_decode->atividades[$i]->data,
             $json_decode->atividades[$i]->horário,
-            $json_decode->atividades[$i]->descrição,
             $json_decode->atividades[$i]->limite,
             $json_decode->atividades[$i]->responsáveis,
-            $json_decode->atividades[$i]->imagem
+            $json_decode->atividades[$i]->descrição
         ];
     }
 
