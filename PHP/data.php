@@ -39,7 +39,6 @@ function remove_utf8_bom($text)
     
     $json = '';
     
-    ini_set("allow_url_fopen", 1);
     if( ini_get('allow_url_fopen') ) {
         $json = file_get_contents('https://drive.google.com/uc?id=1gvEcdAssEMU3UDtkvIELh4ZsEo-lH3lQ&export=download');
     }
