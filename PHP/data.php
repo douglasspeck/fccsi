@@ -25,9 +25,21 @@
 
 
 
+/* Função para corrigir a formatação do arquivo JSON */
+function remove_utf8_bom($text)
+    {
+        $bom = pack('H*','EFBBBF');
+        $text = preg_replace("/^$bom/", '', $text);
+        return $text;
+    }
+
+
+
 /* Atividades Integradoras */
     
-    $json = file_get_contents('DATA/atividades.json');
+    $json = file_get_contents('https://drive.google.com/uc?id=1gvEcdAssEMU3UDtkvIELh4ZsEo-lH3lQ&export=download');
+
+    $json = remove_utf8_bom($json);
 
     $json_decode = json_decode($json);
 
