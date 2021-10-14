@@ -33,6 +33,22 @@ function remove_utf8_bom($text)
         return $text;
     }
 
+/* Função para importar de um link com o CURL */
+function file_get_contents_curl($url) {
+    $ch = curl_init();
+
+    curl_setopt($ch, CURLOPT_AUTOREFERER, TRUE);
+    curl_setopt($ch, CURLOPT_HEADER, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, TRUE);       
+
+    $data = curl_exec($ch);
+    curl_close($ch);
+
+    return $data;
+}
+
 
 
 /* Atividades Integradoras */
@@ -40,7 +56,7 @@ function remove_utf8_bom($text)
     $json = '';
     
     if( ini_get('allow_url_fopen') ) {
-        $json = file_get_contents('https://drive.google.com/uc?id=1gvEcdAssEMU3UDtkvIELh4ZsEo-lH3lQ&export=download');
+        $json = file_get_contents_curl('https://drive.google.com/uc?id=1gvEcdAssEMU3UDtkvIELh4ZsEo-lH3lQ&export=download');
     }
 
     $json = remove_utf8_bom($json);
