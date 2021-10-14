@@ -68,4 +68,5 @@ TO DO LIST:
 
 [ ] Gallery page;
 [ ] Resize and reformat images;
-[ ] Faviconing;
+[x] Faviconing;
+[ ] Split activities 
