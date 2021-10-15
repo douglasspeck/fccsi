@@ -67,7 +67,7 @@
                         <p><strong>
                             O Formulário estará disponível entre as 13:00 do dia 13/10 e as 23:59 do dia 15/10.
                         </strong></p>
-                        <a target="_blank" role="button" onclick="alert('As inscrições ainda não estão abertas! Tente novamente mais tarde.')">Quero participar!</a>
+                        <a target="_blank" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdOXwPFbKz5hNCVSFqpeVFhXXmf7KCIvV-Gq5y8lNVTEn55Lw/viewform?usp=sf_link">Quero participar!</a>
                         <p class="p-text center"><a class="link" href="atividades<?php if ($isLocal == true) {echo '.php';}?>">Cronograma de Atividades</a></p>
                     </div>
                 </article>
