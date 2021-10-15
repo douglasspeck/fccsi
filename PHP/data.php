@@ -55,7 +55,7 @@ function file_get_contents_curl($url) {
 
 /* Atividades Integradoras */
     
-    $json = file_get_contents('DATA/atividades-20210914-170147.json');
+    $json = file_get_contents('DATA/atividades-20210915-071918.json');
     
     if( ini_get('allow_url_fopen') ) {
         $json = file_get_contents_curl('https://drive.google.com/uc?id=1gvEcdAssEMU3UDtkvIELh4ZsEo-lH3lQ&export=download');

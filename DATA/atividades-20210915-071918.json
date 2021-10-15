@@ -32,7 +32,7 @@
             "categoria" : "1",
             "data" : "1",
             "horário" : "1",
-            "limite" : "30~90",
+            "limite" : "90",
             "responsáveis" : ["Lucas Diel (Docente)"],
             "descrição" : "Palestra interativa organizada pelo professor Lucas Diel sobre as civilizações dos tempos anteriores à mitologia e história grega."
         },
@@ -607,7 +607,7 @@
             "nome" : "Deficiências com origem genética",
             "categoria" : "3",
             "data" : "3",
-            "horário" : "3",
+            "horário" : "1",
             "limite" : "30~60",
             "responsáveis" : ["Luiza Ferreira (Discente)"],
             "descrição" : "Palestra organizada por alunos salesianos tratando sobre problemas genéticos, e seus possíveis efeitos. "
@@ -760,7 +760,7 @@
             "nome" : "A Divina Comédia: do Inferno ao Paraíso",
             "categoria" : "3",
             "data" : "3",
-            "horário" : "1",
+            "horário" : "3",
             "limite" : "40",
             "responsáveis" : ["Vinicius Alexandre (Discente)"],
             "descrição" : "Uma atividade organizada por alunos do Salesiano explicando a magnum opus de Dante Alighieri! Venha descobrir os segredos desse clássico literário."
@@ -910,7 +910,7 @@
             "descrição" : "Este momento será dedicado à visitação dos projetos produzidos pelos alunos do EFAF para a FCCSI 2021. Os projetos possuem temas e abordagens variadas e você pode assistir àqueles que mais chamarem a sua atenção!"
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Estados Unidos: Um Sonho de Liberdade",
             "categoria" : "3",
             "data" : "1",
             "horário" : "1",
@@ -919,7 +919,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Brasil: Tim Maia",
             "categoria" : "3",
             "data" : "1",
             "horário" : "1",
@@ -928,7 +928,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - França: Léon",
             "categoria" : "3",
             "data" : "1",
             "horário" : "1",
@@ -937,7 +937,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Itália: A Incrível História da Ilha das Rosas",
             "categoria" : "3",
             "data" : "1",
             "horário" : "2",
@@ -946,7 +946,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Reino Unido: Monty Phyton, Em Busca do Cálice Sagrado",
             "categoria" : "3",
             "data" : "1",
             "horário" : "2",
@@ -955,7 +955,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Estados Unidos: Malcom X",
             "categoria" : "3",
             "data" : "1",
             "horário" : "2",
@@ -964,7 +964,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Japão: Tiger Tail",
             "categoria" : "3",
             "data" : "1",
             "horário" : "3",
@@ -973,7 +973,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - China: O Tigre e o Dragão",
             "categoria" : "3",
             "data" : "1",
             "horário" : "3",
@@ -982,7 +982,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Ucrânia: Winter On Fire, Ukraine's Fight For Freedom",
             "categoria" : "3",
             "data" : "2",
             "horário" : "3",
@@ -991,7 +991,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Coréia do Sul: O Hospedeiro",
             "categoria" : "3",
             "data" : "2",
             "horário" : "3",
@@ -1000,7 +1000,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Brasil: O Tempo e o Vento",
             "categoria" : "3",
             "data" : "2",
             "horário" : "3",
@@ -1009,7 +1009,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Índia: Pad Man",
             "categoria" : "3",
             "data" : "3",
             "horário" : "1",
@@ -1018,7 +1018,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Japão: A Viagem de Chihiro",
             "categoria" : "3",
             "data" : "3",
             "horário" : "1",
@@ -1027,7 +1027,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - O Dilema das Redes",
             "categoria" : "3",
             "data" : "3",
             "horário" : "2",
@@ -1036,7 +1036,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Turquia: O Milagre da Cela 7 ",
             "categoria" : "3",
             "data" : "3",
             "horário" : "2",
@@ -1045,7 +1045,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Argentina: A História Oficial",
             "categoria" : "3",
             "data" : "3",
             "horário" : "3",
@@ -1054,7 +1054,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Brasil: Orfeu do Carnaval",
             "categoria" : "3",
             "data" : "3",
             "horário" : "3",
@@ -1063,7 +1063,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Índia: Lion, Uma Jornada Para Casa",
             "categoria" : "2",
             "data" : "1",
             "horário" : "1",
@@ -1072,7 +1072,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Ucrânia: Winter On Fire, Ukraine's Fight For Freedom",
             "categoria" : "2",
             "data" : "1",
             "horário" : "1",
@@ -1081,7 +1081,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Coréia do Sul: O Hospedeiro",
             "categoria" : "2",
             "data" : "3",
             "horário" : "1",
@@ -1090,7 +1090,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Reino Unido: O Menino Que Descobriu o Vento",
             "categoria" : "2",
             "data" : "3",
             "horário" : "1",
@@ -1099,7 +1099,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Estados Unidos: Infiltrados na Klan",
             "categoria" : "2",
             "data" : "3",
             "horário" : "1",
@@ -1108,7 +1108,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Estados Unidos: Forrest Gump, o Contador de Histórias",
             "categoria" : "2",
             "data" : "3",
             "horário" : "2",
@@ -1117,7 +1117,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - França: Que Mal Eu Fiz Deus?",
             "categoria" : "2",
             "data" : "3",
             "horário" : "2",
@@ -1126,7 +1126,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Japão: Akira",
             "categoria" : "2",
             "data" : "3",
             "horário" : "2",
@@ -1135,7 +1135,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - China: Pérolas no Mar",
             "categoria" : "2",
             "data" : "3",
             "horário" : "3",
@@ -1144,7 +1144,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Estados Unidos: Karatê Kid",
             "categoria" : "1",
             "data" : "1",
             "horário" : "1",
@@ -1153,7 +1153,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - França: O Pequeno Nicolau",
             "categoria" : "1",
             "data" : "1",
             "horário" : "1",
@@ -1162,7 +1162,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Canadá: A Ganha Pão",
             "categoria" : "1",
             "data" : "2",
             "horário" : "1",
@@ -1171,7 +1171,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Brasil: O Tempo e o Vento",
             "categoria" : "2",
             "data" : "3",
             "horário" : "3",
@@ -1180,7 +1180,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Canadá: A Ganha Pão",
             "categoria" : "3",
             "data" : "2",
             "horário" : "2",
@@ -1225,7 +1225,7 @@
             "descrição" : "Um dos jogos mais tradicionais da humanidade é trazido para a FCCSI esse ano. Você tem a capacidade de se tornar o Grão Mestre do Xadrez do Colégio Salesiano Itajaí?"
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Índia: Pad Man",
             "categoria" : "2",
             "data" : "1",
             "horário" : "2",
@@ -1234,7 +1234,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Turquia: O Milagre da Cela 7 ",
             "categoria" : "2",
             "data" : "1",
             "horário" : "2",
@@ -1243,7 +1243,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Argentina: A História Oficial",
             "categoria" : "2",
             "data" : "1",
             "horário" : "2",
@@ -1252,7 +1252,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Estados Unidos: Baby Driver",
             "categoria" : "2",
             "data" : "1",
             "horário" : "3",
@@ -1261,7 +1261,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Japão: A Viagem de Chihiro",
             "categoria" : "2",
             "data" : "2",
             "horário" : "1",
@@ -1270,7 +1270,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 1",
+            "nome" : "Sala de Cinema - Reino Unido: O Jogo da Imitação",
             "categoria" : "1",
             "data" : "1",
             "horário" : "3",
@@ -1279,7 +1279,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 2",
+            "nome" : "Sala de Cinema - Japão: A Viagem de Chihiro",
             "categoria" : "1",
             "data" : "1",
             "horário" : "3",
@@ -1288,7 +1288,7 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
-            "nome" : "Sala de Cinema 3",
+            "nome" : "Sala de Cinema - Brasil: O Orfeu do Carnaval",
             "categoria" : "1",
             "data" : "1",
             "horário" : "3",
