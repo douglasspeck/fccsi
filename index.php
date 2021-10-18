@@ -51,7 +51,7 @@
                     <div class="image-wrapper">
                         <?php 
                         
-                            $news_image = rand(1, 14);
+                            $news_image = rand(1, 13);
                             echo '<img src="IMG/projeto-'. $news_image . '.webp" alt="Projeto da FCCSI 2019">'
 
                         ?>
