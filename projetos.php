@@ -123,7 +123,7 @@
                                         echo $projetos[$i][$j][6][$k];
                                         if ($k < count($projetos[$i][$j][6]) - 2) {
                                             echo ", ";
-                                        } else if ($k == count($projetos[$i][$j][5]) - 2) {
+                                        } else if ($k == count($projetos[$i][$j][6]) - 2) {
                                             echo " e ";
                                         }
                                     }
