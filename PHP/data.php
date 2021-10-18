@@ -79,8 +79,75 @@ function file_get_contents_curl($url) {
         ];
     }
 
+
+
+/* Projetos */
+
+    $json = file_get_contents('DATA/projetos.json');
+
+    $json = remove_utf8_bom($json);
+
+    $json_decode = json_decode($json);
+
+    $projetos = array();
+
+    $projetos = [[],[],[]];
+
+    for ($i = 0; $i < count($json_decode->A); $i++) {
+        $projetos[0][$i] = [
+            $json_decode->A[$i]->nome,
+            $json_decode->A[$i]->area,
+            $json_decode->A[$i]->data,
+            $json_decode->A[$i]->horário,
+            $json_decode->A[$i]->integrantes,
+            $json_decode->A[$i]->orientadores,
+            $json_decode->A[$i]->banca
+        ];
+    }
+    for ($i = 0; $i < count($json_decode->B); $i++) {
+        $projetos[1][$i] = [
+            $json_decode->B[$i]->nome,
+            $json_decode->B[$i]->area,
+            $json_decode->B[$i]->data,
+            $json_decode->B[$i]->horário,
+            $json_decode->B[$i]->integrantes,
+            $json_decode->B[$i]->orientadores,
+            $json_decode->B[$i]->banca
+        ];
+    }
+    for ($i = 0; $i < count($json_decode->C); $i++) {
+        $projetos[2][$i] = [
+            $json_decode->C[$i]->nome,
+            $json_decode->C[$i]->area,
+            $json_decode->C[$i]->data,
+            $json_decode->C[$i]->horário,
+            $json_decode->C[$i]->integrantes,
+            $json_decode->C[$i]->orientadores,
+            $json_decode->C[$i]->banca
+        ];
+    }
+
+
 /* INFO 2021 */
 
     $dias = ['26/09','27/09','28/09'];
+    $horario_bancas = [
+        ["09h10 às 09h50"],
+        [
+            "07h35 às 08h15",
+            "08h15 às 08h55",
+            "09h10 às 09h50",
+            "09h50 às 10h30",
+            "10h30 às 11h10",
+            "11h10 às 11h50"
+        ],
+        [
+            "07h35 às 08h15",
+            "08h15 às 08h55",
+            "08h55 às 09h35",
+            "09h35 ás 10h05",
+            "10h10 às 10h50",
+            "10h50 às 11h30"
+        ]];
 
 ?>

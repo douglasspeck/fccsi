@@ -1,0 +1,206 @@
+{
+    "A": [
+        {
+            "nome" : "Eletricidade",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Isabelle Rosa Neves", "Carolina Galhardo Brandão", "Larissa Coelho Pereira", "Alice Jesuíno da Rocha"],
+            "orientadores" : ["Fernando Luiz Castro"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "A Força das Mulheres",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Sophia Poli", "Nicole Barbosa", "Brenda Luiza Moser", "Elliana Prux Casas"],
+            "orientadores" : ["Lucas Ribeiro de Castro"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Vulcão",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Daniel Nietsche", "Vinicius Menke Lopes", "Arthur Rosengarten Pedroni"],
+            "orientadores" : ["Sabrina Schumacker Zanca"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Ciência em Experimentos",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Isabela Onofre Weiss", "Matheus Lenhardt Palma", "Allegra Silva Rebello Adriano"],
+            "orientadores" : ["Sabrina Schumacker Zanca"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Países do Mundo",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Felipe Coelho Wassen", "Julia Olinger Cugnier"],
+            "orientadores" : ["Viviane Kelly Farias"],
+            "banca" : [""]
+        }
+    ],
+    "B": [
+        {
+            "nome" : "Diferença entre Efeito Estufa e Aquecimento Global.",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Giuliana Cadiz Valiente Zanatta", "Pedro Henrique Silva", "Rayana Felicio Scheunemann"],
+            "orientadores" : ["Débora Offemann Gonçalves"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Boné para Cego",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Gabrielle Mendonça Ogata", "Rodolfo Abel da Silva", "Breno Ramos Correa", "Valentine Antoniello Szczecinski"],
+            "orientadores" : ["Fernando Luiz Castro"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Transformação de Energia Química (limão) em Energia Elétrica.",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Catarina Heineberg de Freitas Coelho Bento", "Júlia Delvan Lapa"],
+            "orientadores" : ["Juliana Paula de Souza Nunes"],
+            "banca" : [""]
+        },
+        {
+            "nome" : "Ciclo de Vida da Artêmia, um Microcrustáceo Marinho",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Julia Emilio Mafra"],
+            "orientadores" : ["Juliana Paula de Souza Nunes"],
+            "banca" : [""]
+        }
+    ],
+    "C": [
+        {
+            "nome" : "A Arquitetura com o Passar dos Anos: a Cultura e sua Influência no Social",
+            "area" : ["chst"],
+            "data" : "2",
+            "horário" : "3",
+            "integrantes" : ["Martina Moritz"],
+            "orientadores" : ["Francine Gabriele Pereira"],
+            "banca" : ["Leandro de Barros Guimarães", "Lucas Castro", "Andresa Notari"]
+        },
+        {
+            "nome" : "Como Introvertidos Mudam o Mundo",
+            "area" : ["chst"],
+            "data" : "2",
+            "horário" : "4",
+            "integrantes" : ["Ana Júlia da Silva Tomio", "Juliana Pereira Russi", "Maria Carolina Rosa dos Santos"],
+            "orientadores" : ["Leandro de Barros Guimarães"],
+            "banca" : ["Francine Gabriele Pereira", "Lucas Castro", "Andresa Notari"]
+        },
+        {
+            "nome" : "Produzir Shampoo em barra com o objetivo de reduzir o impacto ambiental do produto e das embalagens",
+            "area" : ["cnst"],
+            "data" : "2",
+            "horário" : "1",
+            "integrantes" : ["Ana Karoline Busin", "Maria Clara Fischer Schöpping", "Maria Luiza Costa Rebello"],
+            "orientadores" : ["Sandra Maria Severino Pereira"],
+            "banca" : ["Grazielle Silva", "Valdir Backes", "Rejane Tiegs"]
+        },
+        {
+            "nome" : "Bioplástico: Desafogando os Oceanos",
+            "area" : ["cnst"],
+            "data" : "3",
+            "horário" : "1",
+            "integrantes" : ["Ana Clara Pinto Bueno", "Ana Luísa Correia Rolins", "Larissa Antunes de Azevedo"],
+            "orientadores" : ["Vitor Hugo Gonçalves"],
+            "banca" : ["Valdir Backes", "Juliana Nunes", "Grazielle Silva"]
+        },
+        {
+            "nome" : "Bicicletas no dia a dia",
+            "area" : ["cnst"],
+            "data" : "3",
+            "horário" : "2",
+            "integrantes" : ["Arthur Cajal Nascimento", "Luis Eduardo Cidral", "André Diedrich Rodrigues", "Felipe de Sá Liston"],
+            "orientadores" : ["Érica da Silva Schardosim"],
+            "banca" : ["Vitor Hugo Gonçalves", "Valdir Backes", "Juliana Nunes"]
+        },
+        {
+            "nome" : "Bugando a mente com paradoxos: Paradoxo de Monty Hall",
+            "area" : ["mst"],
+            "data" : "2",
+            "horário" : "5",
+            "integrantes" : ["Nicole Waterkemper Carminati", "Luiza Nascimento Siemann", "Maria Eduarda Bohon", "João Henrique Bergan", "Aderson Mathias Kunz Filho", "Matheus Reschke Vieitez"],
+            "orientadores" : ["Fernanda Garcia"],
+            "banca" : ["Jeferson Lima", "Érica Schardosim", "Valdir Corrêa"]
+        },
+        {
+            "nome" : "Efeito Borboleta",
+            "area" : ["mst"],
+            "data" : "2",
+            "horário" : "6",
+            "integrantes" : ["Gustavo Strowitzki De Souza", "Gabriel Schaldach Morgado", "Guilherme Jordão Pitella", "Kauan Fernandes Gonçalves", "Davi Zanatta", "Gustavo Venzon", "Hanry Ledoux Krobel Lorenz"],
+            "orientadores" : ["Fernanda Garcia"],
+            "banca" : ["Jeferson Lima", "Érica Schardosim", "Valdir Corrêa"]
+        },
+        {
+            "nome" : "Lógica e Matemática",
+            "area" : ["mst"],
+            "data" : "3",
+            "horário" : "3",
+            "integrantes" : ["Ana Júlia Ruziska Herbst", "Bernardo Flores", "Julia Nunes Furman", "Pietra",  "Valentina Bet de Andrade", "Victor", "Yasmim da Silva", "Enzo de Sousa Luzzi", "Pedro Henrique da Rocha Pereira"],
+            "orientadores" : ["Fernanda Garcia"],
+            "banca" : ["Jeferson Lima", "Érica Schardosim", "Fernando Castro"]
+        },
+        {
+            "nome" : "Pi (letra grega que representa 3,14)",
+            "area" : ["mst"],
+            "data" : "3",
+            "horário" : "4",
+            "integrantes" : ["André Gabriel de Melo", "Oscar Ferreira do Vale Neto", "Luis Fellipe de Melo", "Pedro Reghelin Filipaki", "Matheus Reschke", "Guilherme Mattos"],
+            "orientadores" : ["Fernanda Garcia"],
+            "banca" : ["Jeferson Lima", "Érica Schardosim", "Fernando Castro"]
+        },
+        {
+            "nome" : "Jogos Online",
+            "area" : ["chst", "mst"],
+            "data" : "1",
+            "horário" : "1",
+            "integrantes" : ["André Bernardes Alves", "Guilherme Decker Franzener", "Raphael Lá Ribeiro Pettinati", "Arthur de Aragão Rapanos", "Guilherme Luis dos Santos", "Hanry Ledoux Leonel Lorenz", "João Henrique Bergan", "João Pedro Damasceno Lozano", "Juan Diego Romero Fraga"],
+            "orientadores" : ["Fernanda Garcia"],
+            "banca" : ["Meurly", "Fernando Castro", "Érica Schardosim"]
+        },
+        {
+            "nome" : "Pobreza Menstrual",
+            "area" : ["chst"],
+            "data" : "3",
+            "horário" : "5",
+            "integrantes" : ["Bárbara Amarante", "Giovanna Ferreira", "Julia Brandolth e Marina Ramos"],
+            "orientadores" : ["Vitor Hugo Gonçalves"],
+            "banca" : ["Leandro de Barros Guimarães", "Francine Gabriele Pereira", "Andresa Notari"]
+        },
+        {
+            "nome" : "Cannabis: a nebulosa história de uma planta de poder ",
+            "area" : ["chst","cnst"],
+            "data" : "3",
+            "horário" : "6",
+            "integrantes" : ["Vinícius de Souza Machado", "Carla Manuela Borba Souza"],
+            "orientadores" : ["Vitor Hugo Gonçalves"],
+            "banca" : ["Leandro de Barros Guimarães", "Francine Gabriele Pereira", "Andresa Notari"]
+        },
+        {
+            "nome" : "Germinação de Suculentas",
+            "area" : ["cnst"],
+            "data" : "2",
+            "horário" : "2",
+            "integrantes" : ["Camila Renata Lippmann"],
+            "orientadores" : ["Grazielle Silva"],
+            "banca" : ["Sandra Maria Severino Pereira", "Vitor Hugo Gonçalves", "Rejane Tiegs"]
+        }
+    ]
+}
