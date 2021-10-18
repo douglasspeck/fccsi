@@ -36,8 +36,8 @@
 
                 <div class="strip">
                     <div class="text-wrapper">
-                        <h1 class="m-title">Atividades com Banca Avaliadora</h1>
-                        <h2 class="p-title">Estas são exclusivas para o Ensino Médio!</h2>
+                        <h1 class="m-title">Projetos</h1>
+                        <h2 class="p-title">Projetos produzidos pelos alunos. As atividades com Bancas Avaliadoras são exclusivas para o Ensino Médio!</h2>
                     </div>
                 </div>
 
