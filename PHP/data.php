@@ -130,7 +130,7 @@ function file_get_contents_curl($url) {
 
 /* INFO 2021 */
 
-    $dias = ['26/09','27/09','28/09'];
+    $dias = ['26/10','27/10','28/10'];
     $horario_bancas = [
         ["09h10 às 09h50"],
         [
