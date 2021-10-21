@@ -6,7 +6,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Sandra Severino (Docente)", "Simoni Schmitz (Docente)"],
+            "responsáveis" : ["Sandra Severino", "Simoni Schmitz"],
             "descrição" : "O soletrando trata-se de uma gincana de soletração entre os alunos, organizada pelo comitê organizador. Venha e desafie-se!"
         },
         {
@@ -15,7 +15,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "32",
-            "responsáveis" : ["Nicolas Falcão (Discente)"],
+            "responsáveis" : ["Nicolas Falcão"],
             "descrição" : "Um dos jogos mais tradicionais da humanidade é trazido para a FCCSI esse ano. Você tem a capacidade de se tornar o Grão Mestre do Xadrez do Colégio Salesiano Itajaí?"
         },
         {
@@ -24,7 +24,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Adaline Gomes (Docente)"],
+            "responsáveis" : ["Adaline Gomes"],
             "descrição" : "Se junte com a professora Adaline em uma oficina de dança para se divertir com os colegas enquanto se movimenta e curte boa música. "
         },
         {
@@ -33,7 +33,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "90",
-            "responsáveis" : ["Lucas Diel (Docente)"],
+            "responsáveis" : ["Lucas Diel"],
             "descrição" : "Palestra interativa organizada pelo professor Lucas Diel sobre as civilizações dos tempos anteriores à mitologia e história grega."
         },
         {
@@ -42,7 +42,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30~90",
-            "responsáveis" : ["Tayana Emílio (Docente)"],
+            "responsáveis" : ["Tayana Emílio e Fernando"],
             "descrição" : "Como funciona o nosso corpo ao dormimos? Porque é importante termos uma boa noite de sono e como isso influencia no nosso dia-a-dia? Venha descobrir isso com essa palestra da professora Tayana, para todas as categorias!"
         },
         {
@@ -78,7 +78,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Aprenda sobre como melhorar e impulsionar seus hábitos de leitura e processos com uma palestra interativa organizada por Andresa. Conhecimento puro!"
         },
         {
@@ -87,8 +87,17 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Ana Paula Beling (Docente)"],
+            "responsáveis" : ["Ana Paula Beling"],
             "descrição" : "Venha se divertir e se emocionar com diversas peças de teatro, tudo direto da tela de seu tablet, notebook ou celular!"
+        },
+        {
+            "nome" : "Palestra sobre Veterinária",
+            "categoria" : "1",
+            "data" : "1",
+            "horário" : "2",
+            "limite" : "30",
+            "responsáveis" : ["Convidada"],
+            "descrição" : ""
         },
         {
             "nome" : "Oficina de Música",
@@ -96,7 +105,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "35",
-            "responsáveis" : ["Sergio Espezim (Docente)"],
+            "responsáveis" : ["Sergio Espezim"],
             "descrição" : "Oficina de musicalização organizada pelo professor Serginho. Traga para fora o músico que há dentro de você!"
         },
         {
@@ -105,7 +114,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "6",
-            "responsáveis" : ["Lucas Castro (Docente)"],
+            "responsáveis" : ["Lucas Castro"],
             "descrição" : "Mais uma vez o professor Lucas Castro nos mostra seus dotes culinários em uma conversa descontraída. Inscreva-se nessa atividade e não esqueça seu chapéu, mestre cuca!"
         },
         {
@@ -114,7 +123,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Jussara Pamplona (Externo)"],
+            "responsáveis" : ["Jussara Pamplona"],
             "descrição" : "Palestra com a Esteticista Jussara Pamplona sobre os cuidados e tratamentos que podem ser feitos para cuidar da sua pele durante sua juventude."
         },
         {
@@ -159,7 +168,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30~90",
-            "responsáveis" : ["Dona do E Labore (Externo)"],
+            "responsáveis" : ["Dona do E Labore"],
             "descrição" : "Todos os dias comemos, na rua, em casa, em família, sozinhos, fora de horário (ou não), mas quantas vezes paramos para pensar no que estamos comendo? A FCCSI convida você a fazer essa reflexão junto com pessoas que entendem do assunto. Vai perder essa?"
         },
         {
@@ -168,7 +177,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Comoventes poesias declamadas por alunos selecionados do Ensino Médio.  As poesias serão de autoria dos alunos ou de importantes autores. Coordenado pela professora Andresa. "
         },
         {
@@ -186,7 +195,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "35",
-            "responsáveis" : ["Eduarda Patiño (Discente)"],
+            "responsáveis" : ["Eduarda Patiño"],
             "descrição" : "Não perca a sua chance de participar do nosso Make Class, uma oficina de maquiagem que é realizada com a aluna Eduarda Patino para todas as categorias da FCCSI!"
         },
         {
@@ -195,7 +204,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30~60",
-            "responsáveis" : ["Luiza Ferreira (Discente)"],
+            "responsáveis" : ["Luiza Ferreira"],
             "descrição" : "Palestra organizada por alunos salesianos tratando sobre problemas genéticos, e seus possíveis efeitos. "
         },
         {
@@ -204,7 +213,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Douglas Speck (Discente)"],
+            "responsáveis" : ["Douglas Speck"],
             "descrição" : "Mergulhe de cabeça no Google Workspace, o conjunto de ferramentas da Google. Essa breve oficina será um abridor de mentes para todos que desejam aumentar a eficiência de seu workflow e tornando o mesmo integrado."
         },
         {
@@ -213,7 +222,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Ana Júlia Herbst (Discente)"],
+            "responsáveis" : ["Ana Júlia Herbst"],
             "descrição" : "Uma mini aula de lettering básico, para iniciantes e todos que gostam da atividade e buscam praticar um pouco mais suas habilidades, voltado para 6ºs e 7ºs!"
         },
         {
@@ -231,7 +240,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "80",
-            "responsáveis" : ["Raíssa (Discente)"],
+            "responsáveis" : ["Raíssa"],
             "descrição" : "Uma gincana voltada para os alunos dos 6os e 7os anos organizada pela equipe Comitê Organizador juntamente com a equipe de EDF do CSI. Venha participar!"
         },
         {
@@ -240,7 +249,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "40",
-            "responsáveis" : ["Maria Eduarda de Ávila (Discente)"],
+            "responsáveis" : ["Maria Eduarda de Ávila"],
             "descrição" : "A oficina de origami é voltada para alunos dos 6ºs e 7ºs anos, organizada pela aluna Maria Eduarda de Ávila. Venha se desdobrar nesse mundo! "
         },
         {
@@ -258,7 +267,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "45",
-            "responsáveis" : ["Cassiana Ferreira (Docente)"],
+            "responsáveis" : ["Cassiana Ferreira"],
             "descrição" : "A puberdade traz muitas mudanças na vida de uma pessoa, e muitas vezes é difícil lidar com tantas mudanças. Para alguns, a saída é a espiritualidade, e por isso a FCCSI reservou um espaço especial para falar um pouco sobre a dimensão espiritual em uma época tão turbulenta."
         },
         {
@@ -267,7 +276,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "40",
-            "responsáveis" : ["Pedro Schmitz (Discente)", "Micaela Borges (Discente)"],
+            "responsáveis" : ["Pedro Schmitz", "Micaela Borges"],
             "descrição" : "Já ouviu falar sobre o famoso MBTI e nunca entendeu sobre o assunto? Pois nesta palestra organizada por Pedro e Micaela você irá entender essas tão variadas personalidades."
         },
         {
@@ -276,7 +285,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Daniel Zabot (Externo)"],
+            "responsáveis" : ["Daniel Zabot"],
             "descrição" : "Nada melhor do que uma praia e umas ondas, não é? Se você também ama surfar, venha participar da nossa palestra! "
         },
         {
@@ -294,7 +303,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Sergio Espezim (Docente)"],
+            "responsáveis" : ["Sergio Espezim"],
             "descrição" : "Oficina de musicalização organizada pelo professor Serginho. Traga para fora o músico que há dentro de você!"
         },
         {
@@ -303,7 +312,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "6",
-            "responsáveis" : ["Lucas Castro (Docente)"],
+            "responsáveis" : ["Lucas Castro"],
             "descrição" : "Mais uma vez o professor Lucas Castro nos mostra seus dotes culinários em uma conversa descontraída. Inscreva-se nessa atividade e não esqueça seu chapéu, mestre cuca!"
         },
         {
@@ -312,7 +321,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30~120",
-            "responsáveis" : ["Jussara Pamplona (Externo)"],
+            "responsáveis" : ["Jussara Pamplona"],
             "descrição" : "Palestra com a Esteticista Jussara Pamplona sobre os cuidados e tratamentos que podem ser feitos para cuidar da sua pele durante sua juventude."
         },
         {
@@ -330,7 +339,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["André Diedrich (Discente)"],
+            "responsáveis" : ["André Diedrich"],
             "descrição" : "Vídeos bem editados e produzidos tem o seu valor né? E quem não tem conhecimento do assunto poderá aprender sobre neste minicurso de edição de vídeos produzido pelo aluno André Dietrich. "
         },
         {
@@ -339,7 +348,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Thiago Arraes (Docente)"],
+            "responsáveis" : ["Thiago Arraes"],
             "descrição" : "Aprenda a montar um computador em uma aula online organizada pelo professor Thiago e seus equipamentos. "
         },
         {
@@ -366,7 +375,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~60",
-            "responsáveis" : ["Adriana Spengler (Externo)"],
+            "responsáveis" : ["Adriana Spengler"],
             "descrição" : "Palestra sobre os aspectos da política criminal no Brasil e as funções de controle social dos órgãos do sistema de justiça penal."
         },
         {
@@ -375,7 +384,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~60",
-            "responsáveis" : ["Marisol Cambilla (Externo)"],
+            "responsáveis" : ["Marisol Cambilla"],
             "descrição" : "Todo mundo já teve algum momento na vida, em que parado em frente ao seu armário lotado de roupas disse “Não tenho nada para vestir!''. Então, una-se nesta palestra com Marisol para desvendar os segredos da moda!"
         },
         {
@@ -384,7 +393,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Lucas Diel (Docente)"],
+            "responsáveis" : ["Lucas Diel"],
             "descrição" : "Palestra interativa organizada pelo professor Lucas Diel sobre as civilizações dos tempos anteriores à mitologia e história grega."
         },
         {
@@ -429,7 +438,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Alisson (Docente)"],
+            "responsáveis" : ["Alisson"],
             "descrição" : "Você gosta ou quer aprender a programar? Se sim, venha participar do minicurso de programação voltado para as categorias B e C organizado pelo professor Alisson, você não irá se arrepender! "
         },
         {
@@ -438,7 +447,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30~120",
-            "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann (Externo)"],
+            "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann"],
             "descrição" : "Em 2020 o mundo foi mudado para sempre, e agora é a hora de moldar o futuro como queremos. Entretanto, é necessário entender o que está acontecendo para que possamos tomar as nossas decisões corretamente. Para isso trouxemos uma convidada especial que falará sobre a situação atual do nosso mundo."
         },
         {
@@ -465,7 +474,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Adaline Gomes (Docente)"],
+            "responsáveis" : ["Adaline Gomes"],
             "descrição" : "Se junte com a professora Adaline em uma oficina de dança para se divertir com os colegas enquanto se movimenta e curte boa música. "
         },
         {
@@ -474,7 +483,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "32",
-            "responsáveis" : ["Lucas Nogueira (Discente)"],
+            "responsáveis" : ["Lucas Nogueira"],
             "descrição" : "Tradicional campeonato da FCCSI, trazendo o jogo favorito do recreio para a Feira. Venha com sua dupla já montada!"
         },
         {
@@ -483,7 +492,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Vinicius Alexandre (Discente)"],
+            "responsáveis" : ["Vinicius Alexandre"],
             "descrição" : "Uma atividade organizada por alunos do Salesiano explicando a magnum opus de Dante Alighieri! Venha descobrir os segredos desse clássico literário."
         },
         {
@@ -492,7 +501,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30~60",
-            "responsáveis" : ["Matheus Cantizani (Externo)"],
+            "responsáveis" : ["Matheus Cantizani"],
             "descrição" : "Você sabe transmitir sua personalidade por meio de suas redes sociais? Faz ideia de como os algoritmos funcionam? Venha para esta palestra e descubra os segredos por trás das grandes redes!"
         },
         {
@@ -501,7 +510,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Fernando Castro (Docente)"],
+            "responsáveis" : ["Fernando Castro"],
             "descrição" : "O Excel é uma ferramenta cada vez mais importante no mercado de trabalho, bancos inteiros, grandes países e até projetos de escolas são comandados por planilhas. Então por que não se aventurar nessa ferramenta tão utilizada hoje em dia?"
         },
         {
@@ -510,7 +519,7 @@
             "data" : "2",
             "horário" : "1",
             "limite" : "30~120",
-            "responsáveis" : ["Ana Paula (Docente)", "Pe. Assis (Docente)"],
+            "responsáveis" : ["Ana Paula", "Pe. Assis"],
             "descrição" : "Quando entramos no ensino médio, uma de nossas maiores preocupações é o que iremos fazer pro resto da vida. Ana Paula e Padre Assis irão falar sobre isso em uma palestra sobre como tomamos esses tipos de decisões. "
         },
         {
@@ -537,17 +546,8 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30~60",
-            "responsáveis" : ["Patrícia Ferreira (Externo)"],
+            "responsáveis" : ["Patrícia Ferreira"],
             "descrição" : "Nosso mundo muda mais a cada dia, e nós devemos mudar com ele. Nesta palestra você verá, junto com especialistas, qual a situação da nossa sociedade hoje e quais as tendências para o seu futuro!"
-        },
-        {
-            "nome" : "Boa Alimentação no Dia a Dia: Qual Sua Importância?",
-            "categoria" : "2",
-            "data" : "2",
-            "horário" : "3",
-            "limite" : "30~90",
-            "responsáveis" : ["Dona do E Labore (Externo)"],
-            "descrição" : "Todos os dias comemos, na rua, em casa, em família, sozinhos, fora de horário (ou não), mas quantas vezes paramos para pensar no que estamos comendo? A FCCSI convida você a fazer essa reflexão junto com pessoas que entendem do assunto. Vai perder essa?"
         },
         {
             "nome" : "O problema dos museus",
@@ -555,7 +555,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Bruno (Externo)"],
+            "responsáveis" : ["Bruno"],
             "descrição" : "Uma palestra muito interessante organizada por Bruno. Venha descobrir o porquê dos museus terem muitos segredos e problemas, que muitas vezes nem pensamos e como isso influencia no nosso conhecimento! Voltado para todas as categorias!"
         },
         {
@@ -564,7 +564,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Júlia Eduarda Booz (Externo)"],
+            "responsáveis" : ["Júlia Eduarda Booz"],
             "descrição" : "Você sabe o que um designer faz? Já pensou em cursar design ou se vê trabalhando com isso no futuro? A FCCSI 2021 traz para você uma ex-aluno salesiana que vai contar como é estar estudando design em um dos melhores cursos do país!<br>*Pedimos que os alunos tragam material para desenho (lápis/lapiseira e borracha)"
         },
         {
@@ -573,8 +573,26 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30~120",
-            "responsáveis" : ["Daniel Zabot (Externo)"],
+            "responsáveis" : ["Daniel Zabot"],
             "descrição" : "Nada melhor do que uma praia e umas ondas, não é? Se você também ama surfar, venha participar da nossa palestra! "
+        },
+        {
+            "nome" : "Sala de Cinema - França: Léon",
+            "categoria" : "2",
+            "data" : "2",
+            "horário" : "3",
+            "limite" : "45",
+            "responsáveis" : ["Comitê Organizador"],
+            "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
+        },
+        {
+            "nome" : "Sala de Cinema - China: O Tigre e o Dragão",
+            "categoria" : "2",
+            "data" : "2",
+            "horário" : "3",
+            "limite" : "45",
+            "responsáveis" : ["Comitê Organizador"],
+            "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
             "nome" : "Declamação de Poesias",
@@ -582,7 +600,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Comoventes poesias declamadas por alunos selecionados do Ensino Médio.  As poesias serão de autoria dos alunos ou de importantes autores. Coordenado pela professora Andresa. "
         },
         {
@@ -591,7 +609,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Eduarda Patiño (Discente)"],
+            "responsáveis" : ["Eduarda Patiño"],
             "descrição" : "Não perca a sua chance de participar do nosso Make Class, uma oficina de maquiagem que é realizada com a aluna Eduarda Patino para todas as categorias da FCCSI!"
         },
         {
@@ -600,7 +618,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30~120",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Aprenda sobre como melhorar e impulsionar seus hábitos de leitura e processos com uma palestra interativa organizada por Andresa. Conhecimento puro!"
         },
         {
@@ -618,7 +636,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Gabriel Morgado (Discente)"],
+            "responsáveis" : ["Gabriel Morgado"],
             "descrição" : "Um experimento desenvolvido no Itinerário de Análise e Experimentação, pelo aluno do segundo ano do ensino Médio,  Gabriel Morgado, onde ele apresenta, através das leis da Física, como podemos enxergar os sons que ouvimos."
         },
         {
@@ -654,7 +672,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "30~120",
-            "responsáveis" : ["Juliana Nunes (Docente)"],
+            "responsáveis" : ["Juliana Nunes"],
             "descrição" : "Atualmente, uma das maiores indústrias do mundo é a indústria farmacêutica, e interessantemente, muitos remédios não tem sua funcionalidade, nem todos os seus efeitos conhecidos. Por isso, trouxemos uma especialista para conversar sobre quais são os efeitos que os medicamentos podem causar em nosso SNC (Sistema Nervoso Central). Está curioso(a)? Participe!"
         },
         {
@@ -663,7 +681,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "30~120",
-            "responsáveis" : ["Valdir Corrêa (Vavá) (Docente)", "Leandro Guimarães (Docente)"],
+            "responsáveis" : ["Valdir Corrêa (Vavá)", "Leandro Guimarães"],
             "descrição" : "Descubra a fascinante relação entre  a matemática e a filosofia nesta palestra organizada pelo professor Leandro e o coordenador Vavá. Outro clássico da FCCSI."
         },
         {
@@ -672,7 +690,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "30",
-            "responsáveis" : ["Wagner Rocha (Discente)", "Júlia Cordeiro Gaffke Cruz (Discente)"],
+            "responsáveis" : ["Wagner Rocha", "Júlia Cordeiro Gaffke Cruz"],
             "descrição" : "Empreender ainda jovem, além de uma experiência significativa, pode lhe render ótimos resultados. Para falar sobre o assunto, convidamos alunos do colégio para falar um pouco sobre suas experiências empreendedoras e sobre seus negócios. Libere o empreendedor dentro de você!"
         },
         {
@@ -703,12 +721,21 @@
             "descrição" : "Outro clássico da FCCSI, as salas de cinema temáticas trarão filmes nacionais e estrangeiros de várias nacionalidades, desde clássicos a atuais. Traga pipoca, que o filme está para começar!<br>*Devido ao tempo, a maioria dos filmes não poderá ser visto por inteiro, entretanto, convidamos os alunos a terminá-los em casa nas plataformas de streaming indicadas nas salas."
         },
         {
+            "nome" : "Palestra sobre Veterinária",
+            "categoria" : "2",
+            "data" : "3",
+            "horário" : "2",
+            "limite" : "30",
+            "responsáveis" : ["Convidada"],
+            "descrição" : ""
+        },
+        {
             "nome" : "Batalha de Rimas e Versos 2021",
             "categoria" : "2",
             "data" : "3",
             "horário" : "3",
             "limite" : "40",
-            "responsáveis" : ["Marlon Gonçalves (Docente)"],
+            "responsáveis" : ["Marlon Gonçalves"],
             "descrição" : "O que você acha de se desafiar em uma batalha musical de rima e versos junto com seus amigos e o professor Marlon?"
         },
         {
@@ -717,7 +744,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Tayana Emílio (Docente)"],
+            "responsáveis" : ["Tayana Emílio"],
             "descrição" : "Como funciona o nosso corpo ao dormimos? Porque é importante termos uma boa noite de sono e como isso influencia no nosso dia-a-dia? Venha descobrir isso com essa palestra da professora Tayana, para todas as categorias!"
         },
         {
@@ -726,7 +753,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30~60",
-            "responsáveis" : ["Luiza Ferreira (Discente)"],
+            "responsáveis" : ["Luiza Ferreira"],
             "descrição" : "Palestra organizada por alunos salesianos tratando sobre problemas genéticos, e seus possíveis efeitos. "
         },
         {
@@ -735,7 +762,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Ana Paula Beling (Docente)"],
+            "responsáveis" : ["Ana Paula Beling"],
             "descrição" : "Venha se divertir e se emocionar com diversas peças de teatro, tudo direto da tela de seu tablet, notebook ou celular!"
         },
         {
@@ -762,7 +789,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "32",
-            "responsáveis" : ["Nicolas Falcão (Discente)"],
+            "responsáveis" : ["Nicolas Falcão"],
             "descrição" : "Um dos jogos mais tradicionais da humanidade é trazido para a FCCSI esse ano. Você tem a capacidade de se tornar o Grão Mestre do Xadrez do Colégio Salesiano Itajaí?"
         },
         {
@@ -780,7 +807,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30",
-            "responsáveis" : ["Sandra Severino (Docente)"],
+            "responsáveis" : ["Sandra Severino"],
             "descrição" : "Já pensou nas milhares de reações químicas que são necessárias para formar um hambúrguer? Ou na quantidade de átomos envolvidos em um único jantar? Ou simplesmente no que acontece toda a vez que você cozinha um ovo? Para sanar essas e outras dúvidas, a FCCSI traz para você a tradicional oficina de Gastronomia Molecular."
         },
         {
@@ -789,7 +816,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30~120",
-            "responsáveis" : ["Leandro Guimarães (Docente)", "Paulo Rocha (Docente)"],
+            "responsáveis" : ["Leandro Guimarães", "Paulo Rocha"],
             "descrição" : "Praticar musculação por estética, saúde ou pelo próprio esporte pode trazer riscos quando feito de forma errada. Para motivar e orientar os alunos do CSI, trouxemos para a FCCSI dois gigantes do esporte. Não perca!"
         },
         {
@@ -798,7 +825,7 @@
             "data" : "1",
             "horário" : "1",
             "limite" : "30~90",
-            "responsáveis" : ["Juliana Nunes (Docente)"],
+            "responsáveis" : ["Juliana Nunes"],
             "descrição" : "Atualmente, uma das maiores indústrias do mundo é a indústria farmacêutica, e interessantemente, muitos remédios não tem sua funcionalidade, nem todos os seus efeitos conhecidos. Por isso, trouxemos uma especialista para conversar sobre quais são os efeitos que os medicamentos podem causar em nosso SNC (Sistema Nervoso Central). Está curioso(a)? Participe!"
         },
         {
@@ -834,7 +861,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "6",
-            "responsáveis" : ["Lucas Castro (Docente)"],
+            "responsáveis" : ["Lucas Castro"],
             "descrição" : "Mais uma vez o professor Lucas Castro nos mostra seus dotes culinários em uma conversa descontraída. Inscreva-se nessa atividade e não esqueça seu chapéu, mestre cuca!"
         },
         {
@@ -843,7 +870,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Jussara Pamplona (Externo)"],
+            "responsáveis" : ["Jussara Pamplona"],
             "descrição" : "Palestra com a Esteticista Jussara Pamplona sobre os cuidados e tratamentos que podem ser feitos para cuidar da sua pele durante sua juventude."
         },
         {
@@ -852,7 +879,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Ênio Schmitz (Docente)"],
+            "responsáveis" : ["Ênio Schmitz"],
             "descrição" : "O minicurso “Técnicas e rotinas de estudo para Vestibular “ é voltado para todos os alunos do EM que estão precisando de ajuda para se organizar já com a chegada do ENEM e vestibulares, venha participar! "
         },
         {
@@ -861,7 +888,7 @@
             "data" : "1",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Valdir Corrêa (Vavá) (Docente)", "Leandro Guimarães (Docente)"],
+            "responsáveis" : ["Valdir Corrêa (Vavá)", "Leandro Guimarães"],
             "descrição" : "Descubra a fascinante relação entre  a matemática e a filosofia nesta palestra organizada pelo professor Leandro e o coordenador Vavá. Outro clássico da FCCSI."
         },
         {
@@ -897,7 +924,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30~70",
-            "responsáveis" : ["Adriana Spengler (Externo)"],
+            "responsáveis" : ["Adriana Spengler"],
             "descrição" : "Palestra sobre os aspectos da política criminal no Brasil e as funções de controle social dos órgãos do sistema de justiça penal."
         },
         {
@@ -906,7 +933,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "40",
-            "responsáveis" : ["André Diedrich (Discente)"],
+            "responsáveis" : ["André Diedrich"],
             "descrição" : "Vídeos bem editados e produzidos tem o seu valor né? E quem não tem conhecimento do assunto poderá aprender sobre neste minicurso de edição de vídeos produzido pelo aluno André Dietrich. "
         },
         {
@@ -915,7 +942,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30~60",
-            "responsáveis" : ["Marisol Cambilla (Externo)"],
+            "responsáveis" : ["Marisol Cambilla"],
             "descrição" : "Todo mundo já teve algum momento na vida, em que parado em frente ao seu armário lotado de roupas disse “Não tenho nada para vestir!''. Então, una-se nesta palestra com Marisol para desvendar os segredos da moda!"
         },
         {
@@ -924,7 +951,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "40",
-            "responsáveis" : ["Wagner Rocha (Discente)", "Júlia Cordeiro Gaffke Cruz (Discente)"],
+            "responsáveis" : ["Wagner Rocha", "Júlia Cordeiro Gaffke Cruz"],
             "descrição" : "Empreender ainda jovem, além de uma experiência significativa, pode lhe render ótimos resultados. Para falar sobre o assunto, convidamos alunos do colégio para falar um pouco sobre suas experiências empreendedoras e sobre seus negócios. Libere o empreendedor dentro de você!"
         },
         {
@@ -933,7 +960,7 @@
             "data" : "1",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Le Benincá (Externo)", "Lucca del Roy (Discente)"],
+            "responsáveis" : ["Le Benincá", "Lucca del Roy"],
             "descrição" : "Aprender a administrar dinheiro e investir na bolsa pode ser muito complicado né? Nessa palestra chamamos o influencer e expert no assunto, Lê Benincá, para descomplicar e trazer uma conversa super bacana sobre esse amplo tema. "
         },
         {
@@ -969,7 +996,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "30",
-            "responsáveis" : ["Thiago Arraes (Docente)"],
+            "responsáveis" : ["Thiago Arraes"],
             "descrição" : "Aprenda a montar um computador em uma aula online organizada pelo professor Thiago e seus equipamentos. "
         },
         {
@@ -978,7 +1005,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Dr. Francisco Patiño (Externo)"],
+            "responsáveis" : ["Dr. Francisco Patiño"],
             "descrição" : "A harmonização facial virou uma tendência entre os famosos nos últimos anos, mas você  sabe o por quê? Para nos contar um pouco sobre esse procedimento, trouxemos um especialista na área para compartilhar sua experiência conosco."
         },
         {
@@ -987,7 +1014,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "30~60",
-            "responsáveis" : ["Matheus Cantizani (Externo)"],
+            "responsáveis" : ["Matheus Cantizani"],
             "descrição" : "Você sabe transmitir sua personalidade por meio de suas redes sociais? Faz ideia de como os algoritmos funcionam? Venha para esta palestra e descubra os segredos por trás das grandes redes!"
         },
         {
@@ -996,7 +1023,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "40",
-            "responsáveis" : ["Júlia Eduarda Booz (Externo)"],
+            "responsáveis" : ["Júlia Eduarda Booz"],
             "descrição" : "Você sabe o que um designer faz? Já pensou em cursar design ou se vê trabalhando com isso no futuro? A FCCSI 2021 traz para você uma ex-aluno salesiana que vai contar como é estar estudando design em um dos melhores cursos do país!<br>*Pedimos que os alunos tragam material para desenho (lápis/lapiseira e borracha)"
         },
         {
@@ -1005,7 +1032,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "35",
-            "responsáveis" : ["Gabriel Morgado (Discente)"],
+            "responsáveis" : ["Gabriel Morgado"],
             "descrição" : "Um experimento desenvolvido no Itinerário de Análise e Experimentação, pelo aluno do segundo ano do ensino Médio,  Gabriel Morgado, onde ele apresenta, através das leis da Física, como podemos enxergar os sons que ouvimos."
         },
         {
@@ -1014,7 +1041,7 @@
             "data" : "2",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Patrícia Ferreira (Externo)"],
+            "responsáveis" : ["Patrícia Ferreira"],
             "descrição" : "Nosso mundo muda mais a cada dia, e nós devemos mudar com ele. Nesta palestra você verá, junto com especialistas, qual a situação da nossa sociedade hoje e quais as tendências para o seu futuro!"
         },
         {
@@ -1032,7 +1059,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Dona do E Labore (Externo)"],
+            "responsáveis" : ["Dona do E Labore"],
             "descrição" : "Todos os dias comemos, na rua, em casa, em família, sozinhos, fora de horário (ou não), mas quantas vezes paramos para pensar no que estamos comendo? A FCCSI convida você a fazer essa reflexão junto com pessoas que entendem do assunto. Vai perder essa?"
         },
         {
@@ -1041,7 +1068,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Fernando Castro (Docente)"],
+            "responsáveis" : ["Fernando Castro"],
             "descrição" : "O Excel é uma ferramenta cada vez mais importante no mercado de trabalho, bancos inteiros, grandes países e até projetos de escolas são comandados por planilhas. Então por que não se aventurar nessa ferramenta tão utilizada hoje em dia?"
         },
         {
@@ -1050,7 +1077,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Alisson (Docente)"],
+            "responsáveis" : ["Alisson"],
             "descrição" : "Você gosta ou quer aprender a programar? Se sim, venha participar do minicurso de programação voltado para as categorias B e C organizado pelo professor Alisson, você não irá se arrepender! "
         },
         {
@@ -1059,7 +1086,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Eduarda Mazzardo (Externo)"],
+            "responsáveis" : ["Eduarda Mazzardo"],
             "descrição" : "Uma iniciativa sustentável, com viabilidade econômica e ambientalista a qual visa o direcionamento ecológico dos resíduos industriais da laranja, antes, sem um destino aparente."
         },
         {
@@ -1068,7 +1095,7 @@
             "data" : "2",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Ana Paula (Docente)", "Pe. Assis (Docente)"],
+            "responsáveis" : ["Ana Paula", "Pe. Assis"],
             "descrição" : "Quando entramos no ensino médio, uma de nossas maiores preocupações é o que iremos fazer pro resto da vida. Ana Paula e Padre Assis irão falar sobre isso em uma palestra sobre como tomamos esses tipos de decisões. "
         },
         {
@@ -1104,7 +1131,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30~60",
-            "responsáveis" : ["Luiza Ferreira (Discente)"],
+            "responsáveis" : ["Luiza Ferreira"],
             "descrição" : "Palestra organizada por alunos salesianos tratando sobre problemas genéticos, e seus possíveis efeitos. "
         },
         {
@@ -1113,7 +1140,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30~90",
-            "responsáveis" : ["Tayana Emílio (Docente)"],
+            "responsáveis" : ["Tayana Emílio"],
             "descrição" : "Como funciona o nosso corpo ao dormimos? Porque é importante termos uma boa noite de sono e como isso influencia no nosso dia-a-dia? Venha descobrir isso com essa palestra da professora Tayana, para todas as categorias!"
         },
         {
@@ -1122,7 +1149,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30~90",
-            "responsáveis" : ["Ana Paula Beling (Docente)"],
+            "responsáveis" : ["Ana Paula Beling"],
             "descrição" : "Venha se divertir e se emocionar com diversas peças de teatro, tudo direto da tela de seu tablet, notebook ou celular!"
         },
         {
@@ -1131,7 +1158,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "40",
-            "responsáveis" : ["Marlon Gonçalves (Docente)"],
+            "responsáveis" : ["Marlon Gonçalves"],
             "descrição" : "O que você acha de se desafiar em uma batalha musical de rima e versos junto com seus amigos e o professor Marlon?"
         },
         {
@@ -1140,7 +1167,7 @@
             "data" : "3",
             "horário" : "1",
             "limite" : "30~60",
-            "responsáveis" : ["Henrique Pinho (Discente)", "Vitor Damásio (Discente)", "Hanry (Discente)"],
+            "responsáveis" : ["Henrique Pinho", "Vitor Damásio", "Hanry"],
             "descrição" : "Uma usina nuclear inteira construída no Minecraft! Quer aprender sobre Química Nuclear jogando? Então venha conosco para esta explosão!"
         },
         {
@@ -1167,7 +1194,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Aprenda sobre como melhorar e impulsionar seus hábitos de leitura e processos com uma palestra interativa organizada por Andresa. Conhecimento puro!"
         },
         {
@@ -1176,7 +1203,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "40",
-            "responsáveis" : ["Andresa Notari (Docente)"],
+            "responsáveis" : ["Andresa Notari"],
             "descrição" : "Comoventes poesias declamadas por alunos selecionados do Ensino Médio.  As poesias serão de autoria dos alunos ou de importantes autores. Coordenado pela professora Andresa. "
         },
         {
@@ -1185,7 +1212,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "30~90",
-            "responsáveis" : ["Lucas Diel (Docente)"],
+            "responsáveis" : ["Lucas Diel"],
             "descrição" : "Palestra interativa organizada pelo professor Lucas Diel sobre as civilizações dos tempos anteriores à mitologia e história grega."
         },
         {
@@ -1203,7 +1230,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "32",
-            "responsáveis" : ["Lucas Nogueira (Discente)"],
+            "responsáveis" : ["Lucas Nogueira"],
             "descrição" : "Tradicional campeonato da FCCSI, trazendo o jogo favorito do recreio para a Feira. Venha com sua dupla já montada!"
         },
         {
@@ -1230,7 +1257,7 @@
             "data" : "3",
             "horário" : "2",
             "limite" : "32",
-            "responsáveis" : ["Nicolas Falcão (Discente)"],
+            "responsáveis" : ["Nicolas Falcão"],
             "descrição" : "Um dos jogos mais tradicionais da humanidade é trazido para a FCCSI esse ano. Você tem a capacidade de se tornar o Grão Mestre do Xadrez do Colégio Salesiano Itajaí?"
         },
         {
@@ -1239,7 +1266,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "40",
-            "responsáveis" : ["Vinicius Alexandre (Discente)"],
+            "responsáveis" : ["Vinicius Alexandre"],
             "descrição" : "Uma atividade organizada por alunos do Salesiano explicando a magnum opus de Dante Alighieri! Venha descobrir os segredos desse clássico literário."
         },
         {
@@ -1257,7 +1284,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30",
-            "responsáveis" : ["Eduarda Patiño (Discente)"],
+            "responsáveis" : ["Eduarda Patiño"],
             "descrição" : "Não perca a sua chance de participar do nosso Make Class, uma oficina de maquiagem que é realizada com a aluna Eduarda Patino para todas as categorias da FCCSI!"
         },
         {
@@ -1266,7 +1293,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann (Externo)"],
+            "responsáveis" : ["Prof.ª Dr.ª Mariana Schlickmann"],
             "descrição" : "Em 2020 o mundo foi mudado para sempre, e agora é a hora de moldar o futuro como queremos. Entretanto, é necessário entender o que está acontecendo para que possamos tomar as nossas decisões corretamente. Para isso trouxemos uma convidada especial que falará sobre a situação atual do nosso mundo."
         },
         {
@@ -1275,7 +1302,7 @@
             "data" : "3",
             "horário" : "3",
             "limite" : "30~90",
-            "responsáveis" : ["Bruno (Externo)"],
+            "responsáveis" : ["Bruno"],
             "descrição" : "Uma palestra muito interessante organizada por Bruno. Venha descobrir o porquê dos museus terem muitos segredos e problemas, que muitas vezes nem pensamos e como isso influencia no nosso conhecimento! Voltado para todas as categorias!"
         },
         {
