@@ -73,6 +73,15 @@
             "integrantes" : ["Julia Emilio Mafra"],
             "orientadores" : ["Juliana Paula de Souza Nunes"],
             "banca" : [""]
+        },
+        {
+            "nome" : "Teste Seu Conhecimento Sobre O Futebol Brasileiro",
+            "area" : [""],
+            "data" : "2",
+            "horário" : "0",
+            "integrantes" : ["Arthur Vechi", "Bernardo Schürmann", "Bernardo Bianchet", "Enzo Passarin"],
+            "orientadores" : ["Gilberto Zonta"],
+            "banca" : [""]
         }
     ],
     "C": [
