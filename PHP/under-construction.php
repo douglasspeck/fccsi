@@ -1,7 +1,25 @@
 <?php
     echo '
     <section class="under-construction">
-        <img src="IMG/working.jpg" alt="Three men working in a construction">
+        <img
+            sizes="(max-width: 2100px) 100vw, 2100px"
+            srcset="
+                IMG/working_50.png 50w,
+                IMG/working_371.png 371w,
+                IMG/working_584.png 584w,
+                IMG/working_802.png 802,
+                IMG/working_999.png 999w,
+                IMG/working_1216.png 1216w,
+                IMG/working_1398.png 1398w,
+                IMG/working_1482.png 1482w,
+                IMG/working_1594.png 1594w,
+                IMG/working_1748.png 1748w,
+                IMG/working_1934.png 1934w,
+                IMG/working_2061.png 2061w,
+                IMG/working_2100.png 2100w"
+            src="IMG/working.jpg"
+            alt="Three men working in a construction"
+        />
         <h1 class="title">Perdão pelo transtorno, <br>o site está sendo reformado.</h1>
     </section>';
 

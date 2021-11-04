@@ -20,7 +20,23 @@
             <div class="header-background">
                 <?php
                     $banner_image = rand(0, 4);
-                    echo '<img id="banner-img" src="IMG/header-bg-' . $banner_image . '.jpg"/>'
+                    $banner_sizes = [
+                        ["200","660","919","1142","1355","1524","1683","1834","1971","2102","2233","2364","2476","2595","2705","2817","2921","3022","3126","3228","3327","3548","3643","3738","3832","3839","3840"],
+                        ["200","582","806","1000","1182","1333","1471","1596","1722","1833","1940","2049","2150","2259","2351","2446","2537","2624","2806","2793","2883","2967","3048","3132","3328","3387","3425","3494","3564","3623","3690","3836","3840"],
+                        ["190","640","1162","1169","1278","1367","1671","1786","1973","2032","2207","2330","2436","2566","2707","2681","2898","3001","3102","3203","3302","3343","3381","3472","3561","3633","3654","3707","3767","3779","3829","3840"],
+                        ["200","600","858","1071","1264","1431","1591","1736","1875","2008","2134","2255","2381","2467","2455","2505","2594","2698","2793","2873","2934","2883","2984","3047","3123","3197","3225","3133","3143","3200","3275","3349","3411","3654","3727","3837","3840"],
+                        ["200","550","780","979","1145","1291","1424","1549","1675","1790","1895","2003","2107","2204","2301","2390","2579","2673","2765","2847","2944","3027","3115","3198","3280","3351","3361","3407","3476","3543","3607","3668","3830","3837","3840"]
+                    ];
+                    echo '<img
+                    id="banner-img"
+                    sizes="(max-width: ' . $banner_sizes[$banner_image][count($banner_sizes[$banner_image])] . 'px) 100vw, ' . $banner_sizes[$banner_image][count($banner_sizes[$banner_image])] . 'px"
+                    srcset="';
+                    for ($i = 0; $i < count($banner_sizes[$banner_image]); $i++) {
+                        echo 'IMG/header_bg_' . $banner_image . '_' . $banner_sizes[$banner_image][$i] . '.jpg ' . $banner_sizes[$banner_image][$i] . 'w,';
+                    };
+                    echo '"
+                    src="IMG/header_bg_' . $banner_image . '_' . $banner_sizes[$banner_image][count($banner_sizes[$banner_image])] . '".jpg
+                    alt="Paisagem">';
                 ?>
             </div>
             <?php include 'PHP/header.php' ?>
@@ -31,7 +47,7 @@
             </h1>
             <p class="atribuition right montserrat">Foto por <a href="https://unsplash.com/@willianjusten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" class="link" target="_blank">Willian <br class="no-mobile">Justen de Vasconcellos</a></p>
         </div>
-        <div class="countdown-container">
+        <div id="countdown" class="countdown-container">
             <div class="countdown-content">
                 <h1 class="countdown title" id="days"></h1>
                     <h2 class="cd-label pp-title">dias</h2>
@@ -116,7 +132,15 @@
 
             <section class="banner">
                 <div class="icon-title">
-                    <img class="title-icon" src="IMG/clock.svg" alt="Ícone de Relógio"></img>
+                    <img
+                        class="title-icon"
+                        sizes="(max-width: 105px) 100vw, 105px"
+                        srcset="
+                            IMG/clock_50.png 50w,
+                            IMG/clock_105.png 105w"
+                        src="IMG/clock.svg"
+                        alt="Ícone de Relógio"
+                    ></img>
                     <h1 class="g-title upper center">Programação</h1>
                 </div>
                 <div class="space-between triple">
