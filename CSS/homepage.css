@@ -90,6 +90,7 @@ header a:hover, header a.active {
     height: calc(10 * var(--x));
     text-align: center;
     display: flex;
+    flex-direction: column;
     margin: auto;
     margin-bottom: 10vh;
     border-radius: var(--x);

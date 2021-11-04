@@ -9,7 +9,7 @@ var x = setInterval(function() {
   // Calcula o tempo entre hoje e a data escolhida
   var distance = countDownDate - now;
 
-  // Cálculos de tempo
+  // Cálculos de tempod
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
@@ -24,6 +24,6 @@ var x = setInterval(function() {
   // Se a contagem acabar, exibe a mensagem desejada
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("countdown").innerHTML = "A FCCSI já está acontecendo!";
+    document.getElementById("countdown").innerHTML = "<h1>A FCCSI 2021 já acabou,<br>mas ainda há muito por vir!</h1>";
   }
 }, 1000);
